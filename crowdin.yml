@@ -1,9 +1,19 @@
 files:
   - source: /Docs/Users/ReadMe.txt
     translation: /Translations/Docs/Readme/ReadMe-%language%
+    languages_mapping: &anchor
+      language:
+        zh-CN: ChineseSimplified
+        zh-TW: ChineseTraditional
+        pt-BR: Brazilian
+        nb: Norwegian
+        sr: Serbian
   - source: /Translations/WinMerge/English.pot
     translation: /Translations/WinMerge/%language%.po
+    languages_mapping: *anchor
   - source: /Translations/InnoSetup/English.isl
     translation: /Translations/InnoSetup/%language%.isl
+    languages_mapping: *anchor
   - source: /Translations/ShellExtension/English.pot
     translation: /Translations/ShellExtension/%language%.po
+    languages_mapping: *anchor
