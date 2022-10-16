@@ -2,8 +2,8 @@ files:
   - source: /Docs/Users/ReadMe.txt
     translation: /Translations/Docs/Readme/ReadMe-%language%
   - source: /Translations/WinMerge/English.pot
-    translation: /Translations/WinMerge/%language%.pot
+    translation: /Translations/WinMerge/%language%.po
   - source: /Translations/InnoSetup/English.isl
     translation: /Translations/InnoSetup/%language%.isl
   - source: /Translations/ShellExtension/English.pot
-    translation: /Translations/ShellExtension/%language%.pot
+    translation: /Translations/ShellExtension/%language%.po
