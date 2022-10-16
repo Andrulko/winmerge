@@ -38,7 +38,7 @@ FinnishLanguage=Finske menuer og dialoger
 FrenchLanguage=Franske menuer og dialoger
 GalicianLanguage=Galisiske menuer og dialoger
 GermanLanguage=Tyske menuer og dialoger
-GreekLanguage=Græske menuer og dialoger
+GreekLanguage=Grèª‘ke menuer og dialoger
 HungarianLanguage=Ungarske menuer og dialoger
 ItalianLanguage=Italienske menuer og dialoger
 JapaneseLanguage=Japanske menuer og dialoger
@@ -65,7 +65,7 @@ ExplorerContextMenu=&Installer Explorer kontekst menu integrationen
 IntegrateTortoiseCVS=Integrer med &TortoiseCVS
 IntegrateTortoiseGit=Integrer med To&rtoiseGit
 IntegrateTortoiseSVN=Integrer med T&ortoiseSVN
-AddToPath=&Tilføj WinMerge folderen til din system path
+AddToPath=&Tilfî˜Š WinMerge folderen til din system path
 
 ; 3-way merge wizard page
 ThreeWayMergeWizardPageCaption=3-Way Merge
@@ -77,12 +77,13 @@ MergeAtLeftPane=Merge at left pane
 AutoMergeAtStartup=Auto-merge at startup time
 
 ;Icon Labels
-ReadMe=Læs mig
+ReadMe=Lèª‘ mig
 UsersGuide=Brugermanualen
 ViewStartMenuFolder=&Se WinMerge Start Menu folderen
 
 ;Code Dialogs
-DeletePreviousStartMenu=Installationsprogrammet har detekteret at du har ændret folderen for din start menu fra "%s" til "%s". Vil du slette den tidligere start menu folder?
+DeletePreviousStartMenu=Installationsprogrammet har detekteret at du har èª…dret folderen for din start menu fra "%s" til "%s". Vil du slette den tidligere start menu folder?
 
 ; Project file description
 ProjectFileDesc=WinMerge projektfil
+
