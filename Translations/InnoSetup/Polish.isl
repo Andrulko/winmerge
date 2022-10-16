@@ -6,9 +6,9 @@ CompanyName=Thingamahoochie Software
 
 ;Types
 TypicalInstallation=Typowa instalacja
-FullInstallation=Pe³na instalacja
+FullInstallation=PeÂ³na instalacja
 CompactInstallation=Ograniczona instalacja
-CustomInstallation=Instalacja u¿ytkownika
+CustomInstallation=Instalacja uÂ¿ytkownika
 
 ;Components
 AppCoreFiles=Podstawowe pliki WinMerge
@@ -17,72 +17,73 @@ Plugins=Wtyczki
 Frhed=Frhed (Free hex editor)
 WinIMerge=WinIMerge (Image Diff/Merge)
 WinWebDiff=WinWebDiff(Web Page Diff)
-ArchiveSupport=Wsparcie dla archiwów
-ShellExtension32bit=32-bitowe rozszerzenie pow³oki WinMerge
-Commands=GnuWin32 ³atka dla systemu Windows/HTML Tidy/jq
+ArchiveSupport=Wsparcie dla archiwÃ³w
+ShellExtension32bit=32-bitowe rozszerzenie powÂ³oki WinMerge
+Commands=GnuWin32 Â³atka dla systemu Windows/HTML Tidy/jq
 
 ;Localization Components
-Languages=Jêzyki
+Languages=JÃªzyki
 ArabicLanguage=Arabski
 BasqueLanguage=Baskijski
-BulgarianLanguage=Bu³garski
-CatalanLanguage=Kataloñski
-ChineseSimplifiedLanguage=Chiñski (uproszczony)
-ChineseTraditionalLanguage=Chiñski (tradycyjny)
+BulgarianLanguage=BuÂ³garski
+CatalanLanguage=KataloÃ±ski
+ChineseSimplifiedLanguage=ChiÃ±ski (uproszczony)
+ChineseTraditionalLanguage=ChiÃ±ski (tradycyjny)
 CorsicanLanguage=Corsican menus and dialogs
 CroatianLanguage=Chorwacki
 CzechLanguage=Czeski
-DanishLanguage=Duñski
+DanishLanguage=DuÃ±ski
 DutchLanguage=Holenderski
-FinnishLanguage=Fiñski
+FinnishLanguage=FiÃ±ski
 FrenchLanguage=Francuski
 GalicianLanguage=Galisyjski
 GermanLanguage=Niemiecki
 GreekLanguage=Grecki
-HungarianLanguage=Wêgierski
-ItalianLanguage=W³oski
-JapaneseLanguage=Japoñski
-KoreanLanguage=Koreañski
+HungarianLanguage=WÃªgierski
+ItalianLanguage=WÂ³oski
+JapaneseLanguage=JapoÃ±ski
+KoreanLanguage=KoreaÃ±ski
 LithuanianLanguage=Litewski
 NorwegianLanguage=Norweski
 PersianLanguage=Perski
 PolishLanguage=Polski
 PortugueseBrazilLanguage=Portugalski (Brazylijski)
 PortugueseLanguage=Portugalski
-RomanianLanguage=Rumuñski
+RomanianLanguage=RumuÃ±ski
 RussianLanguage=Rosyjski
 SerbianLanguage=Serbski
 SinhalaLanguage=Syngaleski
-SlovakLanguage=S³owacki
-SlovenianLanguage=S³oweñski
-SpanishLanguage=Hiszpañski
+SlovakLanguage=SÂ³owacki
+SlovenianLanguage=SÂ³oweÃ±ski
+SpanishLanguage=HiszpaÃ±ski
 SwedishLanguage=Szwedzki
 TurkishLanguage=Turecki
-UkrainianLanguage=Ukraiñski
+UkrainianLanguage=UkraiÃ±ski
 
 ;Tasks
-ExplorerContextMenu=&W³¹cz integracjê z menu kontekstowym Eksploratora
+ExplorerContextMenu=&WÂ³Â¹cz integracjÃª z menu kontekstowym Eksploratora
 IntegrateTortoiseCVS=Integracja z &TortoiseCVS
 IntegrateTortoiseGit=Integracja z To&rtoiseGit
 IntegrateTortoiseSVN=Integracja z T&ortoiseSVN
-AddToPath=&Dodaj folder WinMerge do œcie¿ki systemowej
+AddToPath=&Dodaj folder WinMerge do ÂœcieÂ¿ki systemowej
 
 ; 3-way merge wizard page
-ThreeWayMergeWizardPageCaption=Scalanie trójstronne
-ThreeWayMergeWizardPageDescription=Czy u¿ywasz WinMerge jako narzêdzia do scalania trójstronnego dla TortoiseSVN/Git?
-RegisterWinMergeAs3WayMergeTool=Zarejestruj WinMerge jako narzêdzie do scalania trójstronnego
+ThreeWayMergeWizardPageCaption=Scalanie trÃ³jstronne
+ThreeWayMergeWizardPageDescription=Czy uÂ¿ywasz WinMerge jako narzÃªdzia do scalania trÃ³jstronnego dla TortoiseSVN/Git?
+RegisterWinMergeAs3WayMergeTool=Zarejestruj WinMerge jako narzÃªdzie do scalania trÃ³jstronnego
 MergeAtRightPane=Scal w prawym panelu
-MergeAtCenterPane=Scal w œrodkowym panelu
+MergeAtCenterPane=Scal w Âœrodkowym panelu
 MergeAtLeftPane=Scal w lewym panelu
 AutoMergeAtStartup=Automatyczne scalanie podczas uruchamiania
 
 ;Icon Labels
 ReadMe=Czytaj to
-UsersGuide=Przewodnik u¿ytkownika
-ViewStartMenuFolder=&Wyœwietl folder menu Start WinMerge
+UsersGuide=Przewodnik uÂ¿ytkownika
+ViewStartMenuFolder=&WyÂœwietl folder menu Start WinMerge
 
 ;Code Dialogs
-DeletePreviousStartMenu=Instalator wykry³, ¿e zmieni³eœ lokalizacjê menu startowego z "%s" na "%s". Czy usun¹æ poprzedni folder menu startowego?
+DeletePreviousStartMenu=Instalator wykryÂ³, Â¿e zmieniÂ³eÂœ lokalizacjÃª menu startowego z "%s" na "%s". Czy usunÂ¹Ã¦ poprzedni folder menu startowego?
 
 ; Project file description
 ProjectFileDesc=Plik projektu WinMerge
+
