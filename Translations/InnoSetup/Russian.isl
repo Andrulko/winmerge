@@ -1,64 +1,64 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Дополнительные возможности:
+OptionalFeatures=Г„Г®ГЇГ®Г«Г­ГЁГІГҐГ«ГјГ­Г»ГҐ ГўГ®Г§Г¬Г®Г¦Г­Г®Г±ГІГЁ:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Обычная установка
-FullInstallation=Полная установка
-CompactInstallation=Компактная установка
-CustomInstallation=Выборочная установка
+TypicalInstallation=ГЋГЎГ»Г·Г­Г Гї ГіГ±ГІГ Г­Г®ГўГЄГ 
+FullInstallation=ГЏГ®Г«Г­Г Гї ГіГ±ГІГ Г­Г®ГўГЄГ 
+CompactInstallation=ГЉГ®Г¬ГЇГ ГЄГІГ­Г Гї ГіГ±ГІГ Г­Г®ГўГЄГ 
+CustomInstallation=Г‚Г»ГЎГ®Г°Г®Г·Г­Г Гї ГіГ±ГІГ Г­Г®ГўГЄГ 
 
 ;Components
-AppCoreFiles=Основные файлы WinMerge
-Filters=Фильтры
-Plugins=Плагины
-Frhed=Frhed(Бесплатный HEX редактор)
+AppCoreFiles=ГЋГ±Г­Г®ГўГ­Г»ГҐ ГґГ Г©Г«Г» WinMerge
+Filters=Г”ГЁГ«ГјГІГ°Г»
+Plugins=ГЏГ«Г ГЈГЁГ­Г»
+Frhed=Frhed(ГЃГҐГ±ГЇГ«Г ГІГ­Г»Г© HEX Г°ГҐГ¤Г ГЄГІГ®Г°)
 WinIMerge=WinIMerge(Image Diff/Merge)
 WinWebDiff=WinWebDiff(Web Page Diff)
-ArchiveSupport=Поддержка архивов
-ShellExtension32bit=32-битное расширение оболочки WinMerge
-Commands=GnuWin32 патч для Windows/HTML Tidy/jq
+ArchiveSupport=ГЏГ®Г¤Г¤ГҐГ°Г¦ГЄГ  Г Г°ГµГЁГўГ®Гў
+ShellExtension32bit=32-ГЎГЁГІГ­Г®ГҐ Г°Г Г±ГёГЁГ°ГҐГ­ГЁГҐ Г®ГЎГ®Г«Г®Г·ГЄГЁ WinMerge
+Commands=GnuWin32 ГЇГ ГІГ· Г¤Г«Гї Windows/HTML Tidy/jq
 
 ;Localization Components
-Languages=Языки интерфейса (меню и диалоги)
-ArabicLanguage=Арабский
-BasqueLanguage=Баскский
-BulgarianLanguage=Болгарский
-CatalanLanguage=Каталанский
-ChineseSimplifiedLanguage=Китайский (упрощенный)
-ChineseTraditionalLanguage=Китайский (традиционный)
+Languages=ГџГ§Г»ГЄГЁ ГЁГ­ГІГҐГ°ГґГҐГ©Г±Г  (Г¬ГҐГ­Гѕ ГЁ Г¤ГЁГ Г«Г®ГЈГЁ)
+ArabicLanguage=ГЂГ°Г ГЎГ±ГЄГЁГ©
+BasqueLanguage=ГЃГ Г±ГЄГ±ГЄГЁГ©
+BulgarianLanguage=ГЃГ®Г«ГЈГ Г°Г±ГЄГЁГ©
+CatalanLanguage=ГЉГ ГІГ Г«Г Г­Г±ГЄГЁГ©
+ChineseSimplifiedLanguage=ГЉГЁГІГ Г©Г±ГЄГЁГ© (ГіГЇГ°Г®Г№ГҐГ­Г­Г»Г©)
+ChineseTraditionalLanguage=ГЉГЁГІГ Г©Г±ГЄГЁГ© (ГІГ°Г Г¤ГЁГ¶ГЁГ®Г­Г­Г»Г©)
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage=Хорватский
-CzechLanguage=Чешский
-DanishLanguage=Датский
-DutchLanguage=Голландский
-FinnishLanguage=Финский
-FrenchLanguage=Французский
-GalicianLanguage=Галисийский
-GermanLanguage=Немецкий
-GreekLanguage=Греческий
-HungarianLanguage=Венгерский
-ItalianLanguage=Итальянский
-JapaneseLanguage=Японский
-KoreanLanguage=Корейский
-LithuanianLanguage=Литовский
-NorwegianLanguage=Норвежский
-PersianLanguage=Персидский
-PolishLanguage=Польский
-PortugueseBrazilLanguage=Португальский (Бразилия)
-PortugueseLanguage=Португальский
-RomanianLanguage=Румынский
-RussianLanguage=Русский
-SerbianLanguage=Сербский
-SinhalaLanguage=Сингальский
-SlovakLanguage=Словацкий
-SlovenianLanguage=Словенский
-SpanishLanguage=Испанский
-SwedishLanguage=Шведский
-TurkishLanguage=Турецкий
-UkrainianLanguage=Украинский
+CroatianLanguage=Г•Г®Г°ГўГ ГІГ±ГЄГЁГ©
+CzechLanguage=Г—ГҐГёГ±ГЄГЁГ©
+DanishLanguage=Г„Г ГІГ±ГЄГЁГ©
+DutchLanguage=ГѓГ®Г«Г«Г Г­Г¤Г±ГЄГЁГ©
+FinnishLanguage=Г”ГЁГ­Г±ГЄГЁГ©
+FrenchLanguage=Г”Г°Г Г­Г¶ГіГ§Г±ГЄГЁГ©
+GalicianLanguage=ГѓГ Г«ГЁГ±ГЁГ©Г±ГЄГЁГ©
+GermanLanguage=ГЌГҐГ¬ГҐГ¶ГЄГЁГ©
+GreekLanguage=ГѓГ°ГҐГ·ГҐГ±ГЄГЁГ©
+HungarianLanguage=Г‚ГҐГ­ГЈГҐГ°Г±ГЄГЁГ©
+ItalianLanguage=Г€ГІГ Г«ГјГїГ­Г±ГЄГЁГ©
+JapaneseLanguage=ГџГЇГ®Г­Г±ГЄГЁГ©
+KoreanLanguage=ГЉГ®Г°ГҐГ©Г±ГЄГЁГ©
+LithuanianLanguage=Г‹ГЁГІГ®ГўГ±ГЄГЁГ©
+NorwegianLanguage=ГЌГ®Г°ГўГҐГ¦Г±ГЄГЁГ©
+PersianLanguage=ГЏГҐГ°Г±ГЁГ¤Г±ГЄГЁГ©
+PolishLanguage=ГЏГ®Г«ГјГ±ГЄГЁГ©
+PortugueseBrazilLanguage=ГЏГ®Г°ГІГіГЈГ Г«ГјГ±ГЄГЁГ© (ГЃГ°Г Г§ГЁГ«ГЁГї)
+PortugueseLanguage=ГЏГ®Г°ГІГіГЈГ Г«ГјГ±ГЄГЁГ©
+RomanianLanguage=ГђГіГ¬Г»Г­Г±ГЄГЁГ©
+RussianLanguage=ГђГіГ±Г±ГЄГЁГ©
+SerbianLanguage=Г‘ГҐГ°ГЎГ±ГЄГЁГ©
+SinhalaLanguage=Г‘ГЁГ­ГЈГ Г«ГјГ±ГЄГЁГ©
+SlovakLanguage=Г‘Г«Г®ГўГ Г¶ГЄГЁГ©
+SlovenianLanguage=Г‘Г«Г®ГўГҐГ­Г±ГЄГЁГ©
+SpanishLanguage=Г€Г±ГЇГ Г­Г±ГЄГЁГ©
+SwedishLanguage=ГГўГҐГ¤Г±ГЄГЁГ©
+TurkishLanguage=Г’ГіГ°ГҐГ¶ГЄГЁГ©
+UkrainianLanguage=Г“ГЄГ°Г ГЁГ­Г±ГЄГЁГ©
 
 ;Tasks
 ExplorerContextMenu=&Enable Explorer context menu integration
@@ -85,4 +85,5 @@ ViewStartMenuFolder=&View the WinMerge Start Menu Folder
 DeletePreviousStartMenu=The installer has detected that you changed the location of your start menu from "%s" to "%s". Would you like to delete the previous start menu folder?
 
 ; Project file description
-ProjectFileDesc=Файл проекта WinMerge
+ProjectFileDesc=Г”Г Г©Г« ГЇГ°Г®ГҐГЄГІГ  WinMerge
+
