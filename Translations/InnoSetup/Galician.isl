@@ -1,71 +1,71 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Características opcionais:
+OptionalFeatures=CaracterÃ­sticas opcionais:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Instalación típica
-FullInstallation=Instalación completa
-CompactInstallation=Instalación compacta
-CustomInstallation=Instalación personalizada
+TypicalInstallation=InstalaciÃ³n tÃ­pica
+FullInstallation=InstalaciÃ³n completa
+CompactInstallation=InstalaciÃ³n compacta
+CustomInstallation=InstalaciÃ³n personalizada
 
 ;Components
-AppCoreFiles=Ficheiros básicos de WinMerge
+AppCoreFiles=Ficheiros bÃ¡sicos de WinMerge
 Filters=Filtros
 Plugins=Complementos
-Frhed=Frhed(Editor hexadecimal gratuíto)
+Frhed=Frhed(Editor hexadecimal gratuÃ­to)
 WinIMerge=WinIMerge(Diferenciar/Mesturar Imaxes)
 WinWebDiff=WinWebDiff(Web Page Diff)
 ArchiveSupport=Soporte de Archivos
-ShellExtension32bit=Extensión do Shell de 32-bit para WinMerge
+ShellExtension32bit=ExtensiÃ³n do Shell de 32-bit para WinMerge
 Commands=Parche GnuWin32 para Windows/HTML Tidy/jq
 
 ;Localization Components
 Languages=Idiomas
-ArabicLanguage=Menús e diálogos en árabe
-BasqueLanguage=Menús e diálogos en éuscaro
-BulgarianLanguage=Menús e diálogos en búlgaro
-CatalanLanguage=Menús e diálogos en catalán
-ChineseSimplifiedLanguage=Menús e diálogos en chinés (simplificado)
-ChineseTraditionalLanguage=Menús e diálogos en chinés (tradicional)
+ArabicLanguage=MenÃºs e diÃ¡logos en Ã¡rabe
+BasqueLanguage=MenÃºs e diÃ¡logos en Ã©uscaro
+BulgarianLanguage=MenÃºs e diÃ¡logos en bÃºlgaro
+CatalanLanguage=MenÃºs e diÃ¡logos en catalÃ¡n
+ChineseSimplifiedLanguage=MenÃºs e diÃ¡logos en chinÃ©s (simplificado)
+ChineseTraditionalLanguage=MenÃºs e diÃ¡logos en chinÃ©s (tradicional)
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage=Menús e diálogos en croata
-CzechLanguage=Menús e diálogos en checo
-DanishLanguage=Menús e diálogos en danés
-DutchLanguage=Menús e diálogos en holandés
-FinnishLanguage=Menús e diálogos en finés
-FrenchLanguage=Menús e diálogos en francés
-GalicianLanguage=Menús e diálogos en galego
-GermanLanguage=Menús e diálogos en alemán
-GreekLanguage=Menús e diálogos en grego
-HungarianLanguage=Menús e diálogos en húngaro
-ItalianLanguage=Menús e diálogos en italiano
-JapaneseLanguage=Menús e diálogos en xaponés
-KoreanLanguage=Menús e diálogos en coreano
-LithuanianLanguage=Menús e diálogos en lituano
-NorwegianLanguage=Menús e diálogos en noruegués
-PersianLanguage=Menús e diálogos en persa
-PolishLanguage=Menús e diálogos en polaco
-PortugueseBrazilLanguage=Menús e diálogos en portugués (Brasil)
-PortugueseLanguage=Menús e diálogos en portugués
-RomanianLanguage=Menús e diálogos en romanés
-RussianLanguage=Menús e diálogos en ruso
-SerbianLanguage=Menús e diálogos en serbio
-SinhalaLanguage=Menús e diálogos en cingalés
-SlovakLanguage=Menús e diálogos en eslovaco
-SlovenianLanguage=Menús e diálogos en esloveno
-SpanishLanguage=Menús e diálogos en español
-SwedishLanguage=Menús e diálogos en sueco
-TurkishLanguage=Menús e diálogos en turco
-UkrainianLanguage=Menús e diálogos en ucraíno
+CroatianLanguage=MenÃºs e diÃ¡logos en croata
+CzechLanguage=MenÃºs e diÃ¡logos en checo
+DanishLanguage=MenÃºs e diÃ¡logos en danÃ©s
+DutchLanguage=MenÃºs e diÃ¡logos en holandÃ©s
+FinnishLanguage=MenÃºs e diÃ¡logos en finÃ©s
+FrenchLanguage=MenÃºs e diÃ¡logos en francÃ©s
+GalicianLanguage=MenÃºs e diÃ¡logos en galego
+GermanLanguage=MenÃºs e diÃ¡logos en alemÃ¡n
+GreekLanguage=MenÃºs e diÃ¡logos en grego
+HungarianLanguage=MenÃºs e diÃ¡logos en hÃºngaro
+ItalianLanguage=MenÃºs e diÃ¡logos en italiano
+JapaneseLanguage=MenÃºs e diÃ¡logos en xaponÃ©s
+KoreanLanguage=MenÃºs e diÃ¡logos en coreano
+LithuanianLanguage=MenÃºs e diÃ¡logos en lituano
+NorwegianLanguage=MenÃºs e diÃ¡logos en norueguÃ©s
+PersianLanguage=MenÃºs e diÃ¡logos en persa
+PolishLanguage=MenÃºs e diÃ¡logos en polaco
+PortugueseBrazilLanguage=MenÃºs e diÃ¡logos en portuguÃ©s (Brasil)
+PortugueseLanguage=MenÃºs e diÃ¡logos en portuguÃ©s
+RomanianLanguage=MenÃºs e diÃ¡logos en romanÃ©s
+RussianLanguage=MenÃºs e diÃ¡logos en ruso
+SerbianLanguage=MenÃºs e diÃ¡logos en serbio
+SinhalaLanguage=MenÃºs e diÃ¡logos en cingalÃ©s
+SlovakLanguage=MenÃºs e diÃ¡logos en eslovaco
+SlovenianLanguage=MenÃºs e diÃ¡logos en esloveno
+SpanishLanguage=MenÃºs e diÃ¡logos en espaÃ±ol
+SwedishLanguage=MenÃºs e diÃ¡logos en sueco
+TurkishLanguage=MenÃºs e diÃ¡logos en turco
+UkrainianLanguage=MenÃºs e diÃ¡logos en ucraÃ­no
 
 ;Tasks
-ExplorerContextMenu=Habilitar a integración no menú de contexto do &Explorer
+ExplorerContextMenu=Habilitar a integraciÃ³n no menÃº de contexto do &Explorer
 IntegrateTortoiseCVS=Integrar con &TortoiseCVS
 IntegrateTortoiseGit=Integrar con To&rtoiseGit
 IntegrateTortoiseSVN=Integrar con T&ortoiseSVN
-AddToPath=Eng&adir a carpeta de WinMerge á túa ruta de sistema
+AddToPath=Eng&adir a carpeta de WinMerge Ã¡ tÃºa ruta de sistema
 
 ; 3-way merge wizard page
 ThreeWayMergeWizardPageCaption=Mestura a 3
@@ -78,11 +78,12 @@ AutoMergeAtStartup=Auto mesturar ao inicio
 
 ;Icon Labels
 ReadMe=Leme
-UsersGuide=Guía de usuario
-ViewStartMenuFolder=&Ver a carpeta de WinMerge do Menú de Inicio
+UsersGuide=GuÃ­a de usuario
+ViewStartMenuFolder=&Ver a carpeta de WinMerge do MenÃº de Inicio
 
 ;Code Dialogs
-DeletePreviousStartMenu=O Instalador detectou que cambiaches a ubicación do Menú de Inicio de "%s" a "%s". Queres eliminar a anterior carpeta do Menú de Inicio?
+DeletePreviousStartMenu=O Instalador detectou que cambiaches a ubicaciÃ³n do MenÃº de Inicio de "%s" a "%s". Queres eliminar a anterior carpeta do MenÃº de Inicio?
 
 ; Project file description
 ProjectFileDesc=Ficheiro de Proxecto de WinMerge
+
