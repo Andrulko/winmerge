@@ -1,19 +1,19 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Додаткові можливості:
+OptionalFeatures=Г„Г®Г¤Г ГІГЄГ®ГўВі Г¬Г®Г¦Г«ГЁГўГ®Г±ГІВі:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Звичайне встановлення
-FullInstallation=Повне встановлення
-CompactInstallation=Компактне встановлення
-CustomInstallation=Вибіркове встановлення
+TypicalInstallation=Г‡ГўГЁГ·Г Г©Г­ГҐ ГўГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Гї
+FullInstallation=ГЏГ®ГўГ­ГҐ ГўГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Гї
+CompactInstallation=ГЉГ®Г¬ГЇГ ГЄГІГ­ГҐ ГўГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Гї
+CustomInstallation=Г‚ГЁГЎВіГ°ГЄГ®ГўГҐ ГўГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Гї
 
 ;Components
-AppCoreFiles=Файли ядра WinMerge
-Filters=Фільтри
-Plugins=Плагіни
+AppCoreFiles=Г”Г Г©Г«ГЁ ГїГ¤Г°Г  WinMerge
+Filters=Г”ВіГ«ГјГІГ°ГЁ
+Plugins=ГЏГ«Г ГЈВіГ­ГЁ
 Frhed=Frhed(Free hex editor)
 WinIMerge=WinIMerge(Image Diff/Merge)
 WinWebDiff=WinWebDiff(Web Page Diff)
@@ -25,46 +25,46 @@ Commands=GnuWin32 Patch for Windows/HTML Tidy/jq
 Languages=Languages
 ArabicLanguage=Arabic menus and dialogs
 BasqueLanguage=Basque menus and dialogs
-BulgarianLanguage=Меню і діалогові вікна болгарською мовою
-CatalanLanguage=Меню і діалогові вікна каталонською мовою
-ChineseSimplifiedLanguage=Меню і діалогові вікна звичайною китайською мовою
-ChineseTraditionalLanguage=Меню і діалогові вікна традиційною китайською мовою
+BulgarianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЎГ®Г«ГЈГ Г°Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+CatalanLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЄГ ГІГ Г«Г®Г­Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+ChineseSimplifiedLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г§ГўГЁГ·Г Г©Г­Г®Гѕ ГЄГЁГІГ Г©Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+ChineseTraditionalLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГІГ°Г Г¤ГЁГ¶ВіГ©Г­Г®Гѕ ГЄГЁГІГ Г©Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage=Меню і діалогові вікна хорватською мовою
-CzechLanguage=Меню і діалогові вікна чеською мовою
-DanishLanguage=Меню і діалогові вікна датською мовою
-DutchLanguage=Меню і діалогові вікна голландською мовою
+CroatianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГµГ®Г°ГўГ ГІГ±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+CzechLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г·ГҐГ±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+DanishLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г¤Г ГІГ±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+DutchLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЈГ®Г«Г«Г Г­Г¤Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 FinnishLanguage=Finnish menus and dialogs
-FrenchLanguage=Меню і діалогові вікна французькою мовою
+FrenchLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГґГ°Г Г­Г¶ГіГ§ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 GalicianLanguage=Galician menus and dialogs
-GermanLanguage=Меню і діалогові вікна німецькою мовою
+GermanLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г­ВіГ¬ГҐГ¶ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 GreekLanguage=Greek menus and dialogs
-HungarianLanguage=Меню і діалогові вікна болгарською мовою
-ItalianLanguage=Меню і діалогові вікна італійською мовою
-JapaneseLanguage=Меню і діалогові вікна японською мовою
-KoreanLanguage=Меню і діалогові вікна корейською мовою
+HungarianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЎГ®Г«ГЈГ Г°Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+ItalianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ВіГІГ Г«ВіГ©Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+JapaneseLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГїГЇГ®Г­Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+KoreanLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЄГ®Г°ГҐГ©Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 LithuanianLanguage=Lithuanian menus and dialogs
-NorwegianLanguage=Меню і діалогові вікна норвежською мовою
+NorwegianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г­Г®Г°ГўГҐГ¦Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 PersianLanguage=Persian menus and dialogs
-PolishLanguage=Меню і діалогові вікна полською мовою
-PortugueseBrazilLanguage=Меню і діалогові вікна португальською (бразильською) мовою
-PortugueseLanguage=Меню і діалогові вікна португальською мовою
-RomanianLanguage=Меню і діалогові вікна румунською мовою
-RussianLanguage=Меню і діалогові вікна російською мовою
+PolishLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЇГ®Г«Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+PortugueseBrazilLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЇГ®Г°ГІГіГЈГ Г«ГјГ±ГјГЄГ®Гѕ (ГЎГ°Г Г§ГЁГ«ГјГ±ГјГЄГ®Гѕ) Г¬Г®ГўГ®Гѕ
+PortugueseLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГЇГ®Г°ГІГіГЈГ Г«ГјГ±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+RomanianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г°ГіГ¬ГіГ­Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+RussianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г°Г®Г±ВіГ©Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 SerbianLanguage=Serbian menus and dialogs
 SinhalaLanguage=Sinhala menus and dialogs
-SlovakLanguage=Меню і діалогові вікна словацькою мовою
+SlovakLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  Г±Г«Г®ГўГ Г¶ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 SlovenianLanguage=Slovenian menus and dialogs
-SpanishLanguage=Меню і діалогові вікна іспанською мовою
-SwedishLanguage=Меню і діалогові вікна шведською мовою
-TurkishLanguage=Меню і діалогові вікна турецькою мовою
-UkrainianLanguage=Меню і діалогові вікна українською мовою
+SpanishLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ВіГ±ГЇГ Г­Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+SwedishLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГёГўГҐГ¤Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+TurkishLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГІГіГ°ГҐГ¶ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
+UkrainianLanguage=ГЊГҐГ­Гѕ Ві Г¤ВіГ Г«Г®ГЈГ®ГўВі ГўВіГЄГ­Г  ГіГЄГ°Г ВїГ­Г±ГјГЄГ®Гѕ Г¬Г®ГўГ®Гѕ
 
 ;Tasks
-ExplorerContextMenu=&Інтегруватися в контекстне меню оболонки ОС
-IntegrateTortoiseCVS=Інтегруватися в &TortoiseCVS
-IntegrateTortoiseGit=Інтегруватися в To&rtoiseGit
-IntegrateTortoiseSVN=Інтегруватися в T&ortoiseSVN
+ExplorerContextMenu=&ВІГ­ГІГҐГЈГ°ГіГўГ ГІГЁГ±Гї Гў ГЄГ®Г­ГІГҐГЄГ±ГІГ­ГҐ Г¬ГҐГ­Гѕ Г®ГЎГ®Г«Г®Г­ГЄГЁ ГЋГ‘
+IntegrateTortoiseCVS=ВІГ­ГІГҐГЈГ°ГіГўГ ГІГЁГ±Гї Гў &TortoiseCVS
+IntegrateTortoiseGit=ВІГ­ГІГҐГЈГ°ГіГўГ ГІГЁГ±Гї Гў To&rtoiseGit
+IntegrateTortoiseSVN=ВІГ­ГІГҐГЈГ°ГіГўГ ГІГЁГ±Гї Гў T&ortoiseSVN
 AddToPath=&Add WinMerge folder to your system path
 
 ; 3-way merge wizard page
@@ -77,12 +77,13 @@ MergeAtLeftPane=Merge at left pane
 AutoMergeAtStartup=Auto-merge at startup time
 
 ;Icon Labels
-ReadMe=Прочитати Read Me
-UsersGuide=Довідка користувача
-ViewStartMenuFolder=&Відкрити папку WinMerge в стартовому меню
+ReadMe=ГЏГ°Г®Г·ГЁГІГ ГІГЁ Read Me
+UsersGuide=Г„Г®ГўВіГ¤ГЄГ  ГЄГ®Г°ГЁГ±ГІГіГўГ Г·Г 
+ViewStartMenuFolder=&Г‚ВіГ¤ГЄГ°ГЁГІГЁ ГЇГ ГЇГЄГі WinMerge Гў Г±ГІГ Г°ГІГ®ГўГ®Г¬Гі Г¬ГҐГ­Гѕ
 
 ;Code Dialogs
-DeletePreviousStartMenu=Програма встановлення виявила, що ви змінили розташування вашого стартового меню з  "%s" до "%s". Ви хотіли б вилучити попередню папку стартового меню?
+DeletePreviousStartMenu=ГЏГ°Г®ГЈГ°Г Г¬Г  ГўГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Гї ГўГЁГїГўГЁГ«Г , Г№Г® ГўГЁ Г§Г¬ВіГ­ГЁГ«ГЁ Г°Г®Г§ГІГ ГёГіГўГ Г­Г­Гї ГўГ ГёГ®ГЈГ® Г±ГІГ Г°ГІГ®ГўГ®ГЈГ® Г¬ГҐГ­Гѕ Г§  "%s" Г¤Г® "%s". Г‚ГЁ ГµГ®ГІВіГ«ГЁ ГЎ ГўГЁГ«ГіГ·ГЁГІГЁ ГЇГ®ГЇГҐГ°ГҐГ¤Г­Гѕ ГЇГ ГЇГЄГі Г±ГІГ Г°ГІГ®ГўГ®ГЈГ® Г¬ГҐГ­Гѕ?
 
 ; Project file description
-ProjectFileDesc=Файл проекту WinMerge
+ProjectFileDesc=Г”Г Г©Г« ГЇГ°Г®ГҐГЄГІГі WinMerge
+
