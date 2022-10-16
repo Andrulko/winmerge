@@ -7,6 +7,3 @@ files:
     translation: /Translations/InnoSetup/%language%.isl
   - source: /Translations/ShellExtension/English.pot
     translation: /Translations/ShellExtension/%language%.pot
-  - source: /Docs/Manual/EN/*.xml
-    translation: /Docs/Manual/%two_letters_code%/%original_file_name%
-    type: webxml
