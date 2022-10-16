@@ -1,19 +1,19 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures= ÊÌéêÌÂ«Ì «Œ Ì«—Ì :
-CompanyName=  Ì‰ê«„«ÂÊçÌ ”«› Ê— 
+OptionalFeatures=√¶√≠¬é¬ê√≠√•√á√≠ √á√é√ä√≠√á√ë√≠ :
+CompanyName=√ä√≠√§¬ê√á√£√á√•√¶¬ç√≠ √ì√á√ù√ä√¶√ë
 
 ;Types
-TypicalInstallation= ‰’» „⁄„Ê· 
-FullInstallation= ‰’» ò«„· 
-CompactInstallation= ‰’» ›‘—œÂ 
-CustomInstallation= ‰’» ”›«—‘Ì 
+TypicalInstallation=√§√ï√à √£√ö√£√¶√°
+FullInstallation=√§√ï√à ¬ò√á√£√°
+CompactInstallation=√§√ï√à √ù√î√ë√è√•
+CustomInstallation=√§√ï√à √ì√ù√á√ë√î√≠
 
 ;Components
-AppCoreFiles= Å—Ê‰œÂ Â«Ì Â” Â ÊÌ‰„—Ã 
-Filters= ’«›ÌÂ« 
-Plugins= Ê’· ‘œ‰ÌÂ« 
+AppCoreFiles=¬Å√ë√¶√§√è√• √•√á√≠ √•√ì√ä√• √¶√≠√§√£√ë√å
+Filters=√ï√á√ù√≠√•√á
+Plugins=√¶√ï√° √î√è√§√≠√•√á
 Frhed=Frhed(Free hex editor)
 WinIMerge=WinIMerge(Image Diff/Merge)
 WinWebDiff=WinWebDiff(Web Page Diff)
@@ -22,50 +22,50 @@ ShellExtension32bit=32-bit WinMerge ShellExtension
 Commands=GnuWin32 Patch for Windows/HTML Tidy/jq
 
 ;Localization Components
-Languages= “»«‰Â« 
+Languages=√í√à√á√§√•√á
 ArabicLanguage=Arabic menus and dialogs
 BasqueLanguage=Basque menus and dialogs
-BulgarianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â »·€«—Ì 
-CatalanLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ò« «·«‰ 
-ChineseSimplifiedLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â çÌ‰Ì ”«œÂ ‘œÂ  
-ChineseTraditionalLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â çÌ‰Ì ”‰ Ì  
+BulgarianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √à√°√õ√á√ë√≠
+CatalanLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ò√á√ä√á√°√á√§
+ChineseSimplifiedLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ç√≠√§√≠ √ì√á√è√• √î√è√•
+ChineseTraditionalLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ç√≠√§√≠ √ì√§√ä√≠
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ò—Ê« Ì‰  
-CzechLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â çòÊ”·Ê«òÌ   
-DanishLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â œ«‰„«—òÌ  
-DutchLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â Â·‰œÌ  
+CroatianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ò√ë√¶√á√ä√≠√§
+CzechLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ç¬ò√¶√ì√°√¶√á¬ò√≠
+DanishLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √è√á√§√£√á√ë¬ò√≠
+DutchLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √•√°√§√è√≠
 FinnishLanguage=Finnish menus and dialogs
-FrenchLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ›—«‰”ÊÌ  
-GalicianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ê«·Ì”Ì‰  
-GermanLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ¬·„«‰Ì  
-GreekLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ÌÊ‰«‰Ì  
-HungarianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â „Ã«—” «‰Ì  
-ItalianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â «Ì «·Ì«ÌÌ  
-JapaneseLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â é«Å‰Ì  
-KoreanLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ò—Â «Ì  
+FrenchLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √ù√ë√á√§√ì√¶√≠
+GalicianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ê√á√°√≠√ì√≠√§
+GermanLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √Ç√°√£√á√§√≠
+GreekLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √≠√¶√§√á√§√≠
+HungarianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √£√å√á√ë√ì√ä√á√§√≠
+ItalianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √á√≠√ä√á√°√≠√á√≠√≠
+JapaneseLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬é√á¬Å√§√≠
+KoreanLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬ò√ë√• √á√≠
 LithuanianLanguage=Lithuanian menus and dialogs
-NorwegianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ‰—ÊéÌ  
+NorwegianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √§√ë√¶¬é√≠
 PersianLanguage=Persian menus and dialogs
-PolishLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ·Â” «‰Ì  
-PortugueseBrazilLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â »—“Ì·Ì / Å— ﬁ«·Ì   
-PortugueseLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â Å— ﬁ«·Ì  
-RomanianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â —Ê„«‰Ì  
-RussianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â —Ê”Ì  
+PolishLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √°√•√ì√ä√á√§√≠
+PortugueseBrazilLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √à√ë√í√≠√°√≠ / ¬Å√ë√ä√û√á√°√≠
+PortugueseLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• ¬Å√ë√ä√û√á√°√≠
+RomanianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √ë√¶√£√á√§√≠
+RussianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √ë√¶√ì√≠
 SerbianLanguage=Serbian menus and dialogs
 SinhalaLanguage=Sinhala menus and dialogs
-SlovakLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â «”·Ê«òÌ  
-SlovenianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â «”·«ÊÌ  
-SpanishLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â «”Å«‰Ì«ÌÌ  
-SwedishLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â ”Ê∆œÌ  
-TurkishLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â  —òÌ  
-UkrainianLanguage= ›Â—” Â«Ì «‰ Œ«» Ê Ã⁄»Â Â«Ì „Õ«Ê—Â «ò—«Ì‰Ì  
+SlovakLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √á√ì√°√¶√á¬ò√≠
+SlovenianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √á√ì√°√á√¶√≠
+SpanishLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √á√ì¬Å√á√§√≠√á√≠√≠
+SwedishLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √ì√¶√Ü√è√≠
+TurkishLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √ä√ë¬ò√≠
+UkrainianLanguage=√ù√•√ë√ì√ä√•√á√≠ √á√§√ä√é√á√à √¶ √å√ö√à√• √•√á√≠ √£√ç√á√¶√ë√• √á¬ò√ë√á√≠√§√≠
 
 ;Tasks
-ExplorerContextMenu=&E ›⁄«· ‰„Êœ‰ ÌòÅ«—çÂ ”«“Ì ›Â—”  Ã” ÃÊê— „ ‰ 
-IntegrateTortoiseCVS=&T ÌòÅ«—ÃÂ ”«“Ì »«  Ê— Ê∆Ì“ ”Ì ÊÌ «” 
+ExplorerContextMenu=&E √ù√ö√á√° √§√£√¶√è√§ √≠¬ò¬Å√á√ë¬ç√• √ì√á√í√≠ √ù√•√ë√ì√ä √å√ì√ä√å√¶¬ê√ë √£√ä√§
+IntegrateTortoiseCVS=&T √≠¬ò¬Å√á√ë√å√• √ì√á√í√≠ √à√á √ä√¶√ë√ä√¶√Ü√≠√í √ì√≠ √¶√≠ √á√ì
 IntegrateTortoiseGit=Integrate with To&rtoiseGit
-IntegrateTortoiseSVN=&o ÌòÅ«—ÃÂ ”«“Ì »«  Ê— Ê∆Ì“ «” ÊÌ «‰ 
-AddToPath=&A «÷«›Â ‰„Êœ‰ ÅÊ‘Â ÊÌ‰„—Ã »Â „”Ì—Â«Ì ”Ì” „ 
+IntegrateTortoiseSVN=&o √≠¬ò¬Å√á√ë√å√• √ì√á√í√≠ √à√á √ä√¶√ë√ä√¶√Ü√≠√í √á√ì √¶√≠ √á√§
+AddToPath=&A √á√ñ√á√ù√• √§√£√¶√è√§ ¬Å√¶√î√• √¶√≠√§√£√ë√å √à√• √£√ì√≠√ë√•√á√≠ √ì√≠√ì√ä√£
 
 ; 3-way merge wizard page
 ThreeWayMergeWizardPageCaption=3-Way Merge
@@ -77,12 +77,13 @@ MergeAtLeftPane=Merge at left pane
 AutoMergeAtStartup=Auto-merge at startup time
 
 ;Icon Labels
-ReadMe= „—« »ŒÊ«‰ 
-UsersGuide= —«Â‰„«Ì ò«—»—Ì 
-ViewStartMenuFolder=&V „‘«ÂœÂ ÅÊ‘Â ›Â—”  ‘—Ê⁄ ÊÌ‰„—Ã 
+ReadMe=√£√ë√á √à√é√¶√á√§
+UsersGuide=√ë√á√•√§√£√á√≠ ¬ò√á√ë√à√ë√≠
+ViewStartMenuFolder=&V √£√î√á√•√è√• ¬Å√¶√î√• √ù√•√ë√ì√ä √î√ë√¶√ö √¶√≠√§√£√ë√å
 
 ;Code Dialogs
-DeletePreviousStartMenu= ‰’«» ‰—„ «›“«— „ ÊÃÂ ‘œÂ «”  òÂ ‘„« „Õ· ›Â—”  ‘—Ê⁄ —«  €ÌÌ— œ«œÂ «Ìœ ("%s" »Â"%s"). ¬Ì« „«Ì· Â” Ìœ òÂ ÅÊ‘Â ›Â—”  ﬁ»·Ì Õ–› ‘Êœø 
+DeletePreviousStartMenu=√§√ï√á√à √§√ë√£ √á√ù√í√á√ë √£√ä√¶√å√• √î√è√• √á√ì√ä ¬ò√• √î√£√á √£√ç√° √ù√•√ë√ì√ä √î√ë√¶√ö √ë√á √ä√õ√≠√≠√ë √è√á√è√• √á√≠√è ("%s" √à√•"%s"). √Ç√≠√á √£√á√≠√° √•√ì√ä√≠√è ¬ò√• ¬Å√¶√î√• √ù√•√ë√ì√ä √û√à√°√≠ √ç√ê√ù √î√¶√è¬ø
 
 ; Project file description
-ProjectFileDesc= Å—Ê‰œÂ Å—ÊéÂ / ÿ—Õ ÊÌ‰„—Ã 
+ProjectFileDesc=¬Å√ë√¶√§√è√• ¬Å√ë√¶¬é√• / √ò√ë√ç √¶√≠√§√£√ë√å
+

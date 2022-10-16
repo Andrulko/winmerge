@@ -1,15 +1,14 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Característiques opcionals:
+OptionalFeatures=CaracterÃ­stiques opcionals:
 CompanyName=Thingamahoochie Software
 
-;Translated by Jordi Vilar <jvilar@users.sourceforge.net>
 ;Types
-TypicalInstallation=Instal·lació típica
-FullInstallation=Instal·lació completa
-CompactInstallation=Instal·lació compacta
-CustomInstallation=Instal·lació personalitzada
+TypicalInstallation=InstalÂ·laciÃ³ tÃ­pica
+FullInstallation=InstalÂ·laciÃ³ completa
+CompactInstallation=InstalÂ·laciÃ³ compacta
+CustomInstallation=InstalÂ·laciÃ³ personalitzada
 
 ;Components
 AppCoreFiles=Fitxers centrals del WinMerge
@@ -19,71 +18,72 @@ Frhed=Frhed(Editor hexadecimal)
 WinIMerge=WinIMerge(Comparador d'imatges)
 WinWebDiff=WinWebDiff(Web Page Diff)
 ArchiveSupport=Suport de fitxers comprimits
-ShellExtension32bit=Extensió de Shell de 32 bits del WinMerge
+ShellExtension32bit=ExtensiÃ³ de Shell de 32 bits del WinMerge
 Commands=GnuWin32 Patch per a Windows/HTML Tidy/jq
 
 ;Localization Components
 Languages=Idiomes
-ArabicLanguage=Menús i diàlegs en Àrab
-BasqueLanguage=Menús i diàlegs en Basc
-BulgarianLanguage=Menús i diàlegs en Búlgar
-CatalanLanguage=Menús i diàlegs en Català
-ChineseSimplifiedLanguage=Menús i diàlegs en Xinès (Simplificat)
-ChineseTraditionalLanguage=Menús i diàlegs en Xinès (Tradicional)
-CorsicanLanguage=Menús i diàlegs en Cors
-CroatianLanguage=Menús i diàlegs en Croat
-CzechLanguage=Menús i diàlegs en Txec
-DanishLanguage=Menús i diàlegs en Danès
-DutchLanguage=Menús i diàlegs en Neerlandès
-FinnishLanguage=Menús i diàlegs en Finès
-FrenchLanguage=Menús i diàlegs en Francès
-GalicianLanguage=Menús i diàlegs en Gallec
-GermanLanguage=Menús i diàlegs en Alemany
-GreekLanguage=Menús i diàlegs en Grec
-HungarianLanguage=Menús i diàlegs en Hongarès
-ItalianLanguage=Menús i diàlegs en Italià
-JapaneseLanguage=Menús i diàlegs en Japonès
-KoreanLanguage=Menús i diàlegs en Koreà
-LithuanianLanguage=Menús i diàlegs en Lituà
-NorwegianLanguage=Menús i diàlegs en Noruec
-PersianLanguage=Menús i diàlegs en Persa
-PolishLanguage=Menús i diàlegs en Polonès
-PortugueseBrazilLanguage=Menús i diàlegs en Portuguès (Brasiler)
-PortugueseLanguage=Menús i diàlegs en Portuguès
-RomanianLanguage=Menús i diàlegs en Romanés
-RussianLanguage=Menús i diàlegs en Rus
-SerbianLanguage=Menús i diàlegs en Serbi
-SinhalaLanguage=Menús i diàlegs en Sinhalès
-SlovakLanguage=Menús i diàlegs en Eslovac
-SlovenianLanguage=Menús i diàlegs en Eslovè
-SpanishLanguage=Menús i diàlegs en Castellà
-SwedishLanguage=Menús i diàlegs en Suec
-TurkishLanguage=Menús i diàlegs en Turc
-UkrainianLanguage=Menús i diàlegs en Ucrainès
+ArabicLanguage=MenÃºs i diÃ legs en Ã€rab
+BasqueLanguage=MenÃºs i diÃ legs en Basc
+BulgarianLanguage=MenÃºs i diÃ legs en BÃºlgar
+CatalanLanguage=MenÃºs i diÃ legs en CatalÃ 
+ChineseSimplifiedLanguage=MenÃºs i diÃ legs en XinÃ¨s (Simplificat)
+ChineseTraditionalLanguage=MenÃºs i diÃ legs en XinÃ¨s (Tradicional)
+CorsicanLanguage=MenÃºs i diÃ legs en Cors
+CroatianLanguage=MenÃºs i diÃ legs en Croat
+CzechLanguage=MenÃºs i diÃ legs en Txec
+DanishLanguage=MenÃºs i diÃ legs en DanÃ¨s
+DutchLanguage=MenÃºs i diÃ legs en NeerlandÃ¨s
+FinnishLanguage=MenÃºs i diÃ legs en FinÃ¨s
+FrenchLanguage=MenÃºs i diÃ legs en FrancÃ¨s
+GalicianLanguage=MenÃºs i diÃ legs en Gallec
+GermanLanguage=MenÃºs i diÃ legs en Alemany
+GreekLanguage=MenÃºs i diÃ legs en Grec
+HungarianLanguage=MenÃºs i diÃ legs en HongarÃ¨s
+ItalianLanguage=MenÃºs i diÃ legs en ItaliÃ 
+JapaneseLanguage=MenÃºs i diÃ legs en JaponÃ¨s
+KoreanLanguage=MenÃºs i diÃ legs en KoreÃ 
+LithuanianLanguage=MenÃºs i diÃ legs en LituÃ 
+NorwegianLanguage=MenÃºs i diÃ legs en Noruec
+PersianLanguage=MenÃºs i diÃ legs en Persa
+PolishLanguage=MenÃºs i diÃ legs en PolonÃ¨s
+PortugueseBrazilLanguage=MenÃºs i diÃ legs en PortuguÃ¨s (Brasiler)
+PortugueseLanguage=MenÃºs i diÃ legs en PortuguÃ¨s
+RomanianLanguage=MenÃºs i diÃ legs en RomanÃ©s
+RussianLanguage=MenÃºs i diÃ legs en Rus
+SerbianLanguage=MenÃºs i diÃ legs en Serbi
+SinhalaLanguage=MenÃºs i diÃ legs en SinhalÃ¨s
+SlovakLanguage=MenÃºs i diÃ legs en Eslovac
+SlovenianLanguage=MenÃºs i diÃ legs en EslovÃ¨
+SpanishLanguage=MenÃºs i diÃ legs en CastellÃ 
+SwedishLanguage=MenÃºs i diÃ legs en Suec
+TurkishLanguage=MenÃºs i diÃ legs en Turc
+UkrainianLanguage=MenÃºs i diÃ legs en UcrainÃ¨s
 
 ;Tasks
-ExplorerContextMenu=&Habilita la integració del menú de context a l'Explorador
+ExplorerContextMenu=&Habilita la integraciÃ³ del menÃº de context a l'Explorador
 IntegrateTortoiseCVS=Integra amb el &TortoiseCVS
 IntegrateTortoiseGit=Integra amb el To&rtoiseGit
 IntegrateTortoiseSVN=Integra amb el T&ortoiseSVN
 AddToPath=&Afegeix la carpeta del WinMerge al path de sistema
 
 ; 3-way merge wizard page
-ThreeWayMergeWizardPageCaption=Fusió a 3 bandes
-ThreeWayMergeWizardPageDescription=Voleu utilitzar el Winmerge com a eina de fusió a 3 bandes al TortoiseSVN/Git?
-RegisterWinMergeAs3WayMergeTool=Associa el WinMerge com a eina de fusió a 3- bandes
-MergeAtRightPane=Fusió al panel dret
-MergeAtCenterPane=Fusió al panell central
-MergeAtLeftPane=Fusió al panell esquerra
-AutoMergeAtStartup=Fes el merge automàtic a l'obrir l'aplicació
+ThreeWayMergeWizardPageCaption=FusiÃ³ a 3 bandes
+ThreeWayMergeWizardPageDescription=Voleu utilitzar el Winmerge com a eina de fusiÃ³ a 3 bandes al TortoiseSVN/Git?
+RegisterWinMergeAs3WayMergeTool=Associa el WinMerge com a eina de fusiÃ³ a 3- bandes
+MergeAtRightPane=FusiÃ³ al panel dret
+MergeAtCenterPane=FusiÃ³ al panell central
+MergeAtLeftPane=FusiÃ³ al panell esquerra
+AutoMergeAtStartup=Fes el merge automÃ tic a l'obrir l'aplicaciÃ³
 
 ;Icon Labels
 ReadMe=Llegiu-me
 UsersGuide=Guia de l'usuari
-ViewStartMenuFolder=&Veure la carpera del menú Inicia del WinMerge
+ViewStartMenuFolder=&Veure la carpera del menÃº Inicia del WinMerge
 
 ;Code Dialogs
-DeletePreviousStartMenu=L'instal·lador ha detectat que heu canviat la ubicació del vostre menú d'inici de "%s" a "%s". Voleu esborrar la carpeta del menú d'inici anterior?
+DeletePreviousStartMenu=L'instalÂ·lador ha detectat que heu canviat la ubicaciÃ³ del vostre menÃº d'inici de "%s" a "%s". Voleu esborrar la carpeta del menÃº d'inici anterior?
 
 ; Project file description
 ProjectFileDesc=Fitxer de projecte del WinMerge
+

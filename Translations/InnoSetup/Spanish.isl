@@ -1,75 +1,75 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Características opcionales:
+OptionalFeatures=CaracterÃ­sticas opcionales:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Instalación Típica
-FullInstallation=Instalación Completa
-CompactInstallation=Instalación Compacta
-CustomInstallation=Instalación Personalizada
+TypicalInstallation=InstalaciÃ³n TÃ­pica
+FullInstallation=InstalaciÃ³n Completa
+CompactInstallation=InstalaciÃ³n Compacta
+CustomInstallation=InstalaciÃ³n Personalizada
 
 ;Components
-AppCoreFiles=Ficheros básicos de WinMerge
+AppCoreFiles=Ficheros bÃ¡sicos de WinMerge
 Filters=Filtros
 Plugins=Complementos
 Frhed=Frhed(Editor hexadecimal gratuito)
-WinIMerge=WinIMerge(Diferenciar/Mezclar Imágenes)
+WinIMerge=WinIMerge(Diferenciar/Mezclar ImÃ¡genes)
 WinWebDiff=WinWebDiff(Web Page Diff)
 ArchiveSupport=Soporte de Archivado
-ShellExtension32bit=Extensión del Shell de 32-bit para WinMerge
+ShellExtension32bit=ExtensiÃ³n del Shell de 32-bit para WinMerge
 Commands=Parche GnuWin32 para Windows/HTML Tidy/jq
 
 ;Localization Components
 Languages=Idiomas
-ArabicLanguage=Menús y diálogos en árabe
-BasqueLanguage=Menús y diálogos en vasco
-BulgarianLanguage=Menús y diálogos en búlgaro
-CatalanLanguage=Menús y diálogos en catalán
-ChineseSimplifiedLanguage=Menús y diálogos en chino (simplificado)
-ChineseTraditionalLanguage=Menús y diálogos en chino (tradicional)
+ArabicLanguage=MenÃºs y diÃ¡logos en Ã¡rabe
+BasqueLanguage=MenÃºs y diÃ¡logos en vasco
+BulgarianLanguage=MenÃºs y diÃ¡logos en bÃºlgaro
+CatalanLanguage=MenÃºs y diÃ¡logos en catalÃ¡n
+ChineseSimplifiedLanguage=MenÃºs y diÃ¡logos en chino (simplificado)
+ChineseTraditionalLanguage=MenÃºs y diÃ¡logos en chino (tradicional)
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage=Menús y diálogos en croata
-CzechLanguage=Menús y diálogos en checo
-DanishLanguage=Menús y diálogos en danés
-DutchLanguage=Menús y diálogos en holandés
-FinnishLanguage=Menús y diálogos en finés
-FrenchLanguage=Menús y diálogos en francés
-GalicianLanguage=Menús y diálogos en gallego
-GermanLanguage=Menús y diálogos en alemán
-GreekLanguage=Menús y diálogos en griego
-HungarianLanguage=Menús y diálogos en húngaro
-ItalianLanguage=Menús y diálogos en italiano
-JapaneseLanguage=Menús y diálogos en japonés
-KoreanLanguage=Menús y diálogos en coreano
-LithuanianLanguage=Menús y diálogos en lituano
-NorwegianLanguage=Menús y diálogos en noruego
-PersianLanguage=Menús y diálogos en persa
-PolishLanguage=Menús y diálogos en polaco
-PortugueseBrazilLanguage=Menús y diálogos en portugués (Brasil)
-PortugueseLanguage=Menús y diálogos en portugués
-RomanianLanguage=Menús y diálogos en rumano
-RussianLanguage=Menús y diálogos en ruso
-SerbianLanguage=Menús y diálogos en serbio
-SinhalaLanguage=Menús y diálogos en cingalés
-SlovakLanguage=Menús y diálogos en eslovaco
-SlovenianLanguage=Menús y diálogos en esloveno
-SpanishLanguage=Menús y diálogos en español
-SwedishLanguage=Menús y diálogos en sueco
-TurkishLanguage=Menús y diálogos en turco
-UkrainianLanguage=Menús y diálogos en ucraniano
+CroatianLanguage=MenÃºs y diÃ¡logos en croata
+CzechLanguage=MenÃºs y diÃ¡logos en checo
+DanishLanguage=MenÃºs y diÃ¡logos en danÃ©s
+DutchLanguage=MenÃºs y diÃ¡logos en holandÃ©s
+FinnishLanguage=MenÃºs y diÃ¡logos en finÃ©s
+FrenchLanguage=MenÃºs y diÃ¡logos en francÃ©s
+GalicianLanguage=MenÃºs y diÃ¡logos en gallego
+GermanLanguage=MenÃºs y diÃ¡logos en alemÃ¡n
+GreekLanguage=MenÃºs y diÃ¡logos en griego
+HungarianLanguage=MenÃºs y diÃ¡logos en hÃºngaro
+ItalianLanguage=MenÃºs y diÃ¡logos en italiano
+JapaneseLanguage=MenÃºs y diÃ¡logos en japonÃ©s
+KoreanLanguage=MenÃºs y diÃ¡logos en coreano
+LithuanianLanguage=MenÃºs y diÃ¡logos en lituano
+NorwegianLanguage=MenÃºs y diÃ¡logos en noruego
+PersianLanguage=MenÃºs y diÃ¡logos en persa
+PolishLanguage=MenÃºs y diÃ¡logos en polaco
+PortugueseBrazilLanguage=MenÃºs y diÃ¡logos en portuguÃ©s (Brasil)
+PortugueseLanguage=MenÃºs y diÃ¡logos en portuguÃ©s
+RomanianLanguage=MenÃºs y diÃ¡logos en rumano
+RussianLanguage=MenÃºs y diÃ¡logos en ruso
+SerbianLanguage=MenÃºs y diÃ¡logos en serbio
+SinhalaLanguage=MenÃºs y diÃ¡logos en cingalÃ©s
+SlovakLanguage=MenÃºs y diÃ¡logos en eslovaco
+SlovenianLanguage=MenÃºs y diÃ¡logos en esloveno
+SpanishLanguage=MenÃºs y diÃ¡logos en espaÃ±ol
+SwedishLanguage=MenÃºs y diÃ¡logos en sueco
+TurkishLanguage=MenÃºs y diÃ¡logos en turco
+UkrainianLanguage=MenÃºs y diÃ¡logos en ucraniano
 
 ;Tasks
-ExplorerContextMenu=Habilitar la integración con menú de contexto de &Explorer
+ExplorerContextMenu=Habilitar la integraciÃ³n con menÃº de contexto de &Explorer
 IntegrateTortoiseCVS=Integrar con &TortoiseCVS
 IntegrateTortoiseGit=Integrar con To&rtoiseGit
 IntegrateTortoiseSVN=Integrar con T&ortoiseSVN
-AddToPath=&Añadir la carpeta de WinMerge a tu ruta de sistema
+AddToPath=&AÃ±adir la carpeta de WinMerge a tu ruta de sistema
 
 ; 3-way merge wizard page
 ThreeWayMergeWizardPageCaption=Mezcla a 3
-ThreeWayMergeWizardPageDescription=¿Usas WinMerge como herramienta de mezcla a 3 para TortoiseSVN/Git?
+ThreeWayMergeWizardPageDescription=Â¿Usas WinMerge como herramienta de mezcla a 3 para TortoiseSVN/Git?
 RegisterWinMergeAs3WayMergeTool=Registrar WinMerge como herramienta de mezcla a 3
 MergeAtRightPane=Mezclar en el panel derecho
 MergeAtCenterPane=Mezclar en el panel central
@@ -77,12 +77,13 @@ MergeAtLeftPane=Mezclar en el panel izquierdo
 AutoMergeAtStartup=Auto mezclar al inicio
 
 ;Icon Labels
-ReadMe=Léeme
-UsersGuide=Guía de Usuario
-ViewStartMenuFolder=&Ver la carpeta de WinMerge del Menú de Inicio
+ReadMe=LÃ©eme
+UsersGuide=GuÃ­a de Usuario
+ViewStartMenuFolder=&Ver la carpeta de WinMerge del MenÃº de Inicio
 
 ;Code Dialogs
-DeletePreviousStartMenu=El instalador ha detectado que se cambió la ubicación del Menú de Inicio de "%s" a "%s". ¿Quieres eliminar la anterior carpeta del Menú de Inicio?
+DeletePreviousStartMenu=El instalador ha detectado que se cambiÃ³ la ubicaciÃ³n del MenÃº de Inicio de "%s" a "%s". Â¿Quieres eliminar la anterior carpeta del MenÃº de Inicio?
 
 ; Project file description
 ProjectFileDesc=Fichero de Proyecto de WinMerge
+
