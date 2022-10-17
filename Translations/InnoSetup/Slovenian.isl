@@ -5,7 +5,7 @@ OptionalFeatures=Izbirne funkcije:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Tipièna namestitev
+TypicalInstallation=Tipiéˆ©a namestitev
 FullInstallation=Popolna namestitev
 CompactInstallation=Strnjena namestitev
 CustomInstallation=Namestitev po meri
@@ -13,12 +13,12 @@ CustomInstallation=Namestitev po meri
 ;Components
 AppCoreFiles=Datoteke jedra WinMerge
 Filters=Filtri
-Plugins=Vtièniki
-Frhed=Frhed(Brezplaèni 16-tiški urejevalnik)
-WinIMerge=WinIMerge (Slika razlik/zdruitev)
+Plugins=Vtiéˆ©iki
+Frhed=Frhed(Brezplaéˆ©i 16-tiå—…i urejevalnik)
+WinIMerge=WinIMerge (Slika razlik/zdruæ´tev)
 WinWebDiff=WinWebDiff(Web Page Diff)
 ArchiveSupport=Podpora arhivov
-ShellExtension32bit=32-bitna razširitev lupine WinMerge
+ShellExtension32bit=32-bitna razå–¨ritev lupine WinMerge
 Commands=GnuWin32 popravek za Windows/HTML Tidy/jq
 
 ;Localization Components
@@ -30,21 +30,21 @@ CatalanLanguage=Katalonski meniji in pogovorna okna
 ChineseSimplifiedLanguage=Kitajski (poenostavljeni) meniji in pogovorna okna
 ChineseTraditionalLanguage=Kitajski (tradicionalni) meniji in pogovorna okna
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage=Hrvaški meniji in pogovorna okna
-CzechLanguage=Èeški meniji in pogovorna okna
+CroatianLanguage=Hrvaå—…i meniji in pogovorna okna
+CzechLanguage=ï¾ˆeå—…i meniji in pogovorna okna
 DanishLanguage=Danski meniji in pogovorna okna
 DutchLanguage=Nizozemski meniji in pogovorna okna
 FinnishLanguage=Finski meniji in pogovorna okna
 FrenchLanguage=Francoski meniji in pogovorna okna
 GalicianLanguage=Galicijski meniji in pogovorna okna
-GermanLanguage=Nemški meniji in pogovorna okna
-GreekLanguage=Grški meniji in pogovorna okna
-HungarianLanguage=Madarski meniji in pogovorna okna
+GermanLanguage=Nemå—…i meniji in pogovorna okna
+GreekLanguage=Grå—…i meniji in pogovorna okna
+HungarianLanguage=Madæªrski meniji in pogovorna okna
 ItalianLanguage=Italijanski meniji in pogovorna okna
 JapaneseLanguage=Japonski meniji in pogovorna okna
 KoreanLanguage=Korejski meniji in pogovorna okna
 LithuanianLanguage=Litovski meniji in pogovorna okna
-NorwegianLanguage=Norveški meniji in pogovorna okna
+NorwegianLanguage=Norveå—…i meniji in pogovorna okna
 PersianLanguage=Perzijski meniji in pogovorna okna
 PolishLanguage=Poljski meniji in pogovorna okna
 PortugueseBrazilLanguage=Portugalski (Brazilski) meniji in pogovorna okna
@@ -53,36 +53,37 @@ RomanianLanguage=Romunski meniji in pogovorna okna
 RussianLanguage=Ruski meniji in pogovorna okna
 SerbianLanguage=Srbski meniji in pogovorna okna
 SinhalaLanguage=Sinhala meniji in pogovorna okna
-SlovakLanguage=Slovaški meniji in pogovorna okna
+SlovakLanguage=Slovaå—…i meniji in pogovorna okna
 SlovenianLanguage=Slovenski meniji in pogovorna okna
-SpanishLanguage=Španski meniji in pogovorna okna
-SwedishLanguage=Švedski meniji in pogovorna okna
-TurkishLanguage=Turški meniji in pogovorna okna
+SpanishLanguage=è§’anski meniji in pogovorna okna
+SwedishLanguage=é©edski meniji in pogovorna okna
+TurkishLanguage=Turå—…i meniji in pogovorna okna
 UkrainianLanguage=Ukrajinski meniji in pogovorna okna
 
 ;Tasks
-ExplorerContextMenu=&Omogoèi integracijo v priroèni meni Raziskovalca
+ExplorerContextMenu=&Omogoé‘› integracijo v priroéˆ©i meni Raziskovalca
 IntegrateTortoiseCVS=Integracija s &TortoiseCVS
 IntegrateTortoiseGit=Integracija s To&rtoiseGit
 IntegrateTortoiseSVN=Integracija s T&ortoiseSVN
 AddToPath=&Dodaj v sistemsko pot mapo WinMerge
 
 ; 3-way merge wizard page
-ThreeWayMergeWizardPageCaption=3-smerno zdruevanje
-ThreeWayMergeWizardPageDescription=Ali uporabljate WinMerge kot orodje za 3-smerno zdruevanje za TortoiseSVN/Git?
-RegisterWinMergeAs3WayMergeTool=Registriraj WinMerge kot orodje za 3-smerno zdruevanje
-MergeAtRightPane=Zdrui v desnem podoknu
-MergeAtCenterPane=Zdrui v srednjem podoknu
-MergeAtLeftPane=Zdrui v levem podoknu
-AutoMergeAtStartup=Samodejno zdrui ob zagonu
+ThreeWayMergeWizardPageCaption=3-smerno zdruæ¡vanje
+ThreeWayMergeWizardPageDescription=Ali uporabljate WinMerge kot orodje za 3-smerno zdruæ¡vanje za TortoiseSVN/Git?
+RegisterWinMergeAs3WayMergeTool=Registriraj WinMerge kot orodje za 3-smerno zdruæ¡vanje
+MergeAtRightPane=Zdruæ´ v desnem podoknu
+MergeAtCenterPane=Zdruæ´ v srednjem podoknu
+MergeAtLeftPane=Zdruæ´ v levem podoknu
+AutoMergeAtStartup=Samodejno zdruæ´ ob zagonu
 
 ;Icon Labels
 ReadMe=Beri me
-UsersGuide=Uporabniški priroènik
-ViewStartMenuFolder=&Ogled mape zaèetnega menija WinMerge
+UsersGuide=Uporabniå—…i priroéˆ©ik
+ViewStartMenuFolder=&Ogled mape zaéºtnega menija WinMerge
 
 ;Code Dialogs
-DeletePreviousStartMenu=Namestitveni program je zaznal, da ste spremenili mesto svojega zaèetnega menija iz "%s" v "%s".  Ali elite izbrisati prejšnjo mapo zaèetnega menija?
+DeletePreviousStartMenu=Namestitveni program je zaznal, da ste spremenili mesto svojega zaéºtnega menija iz "%s" v "%s".  Ali æ¡lite izbrisati prejå—œjo mapo zaéºtnega menija?
 
 ; Project file description
 ProjectFileDesc=Projektna datoteka WinMerge
+
