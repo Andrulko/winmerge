@@ -1,88 +1,89 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=İsteğe Bağlı Özellikler:
+OptionalFeatures=ÃsteÃ°e BaÃ°lÃ½ Ã–zellikler:
 CompanyName=Thingamahoochie Software
 
 ;Types
 TypicalInstallation=Tipik Kurulum
 FullInstallation=Tam Kurulum
-CompactInstallation=Küçük Kurulum
-CustomInstallation=Özel Kurulum
+CompactInstallation=KÃ¼Ã§Ã¼k Kurulum
+CustomInstallation=Ã–zel Kurulum
 
 ;Components
-AppCoreFiles=WinMerge Çekirdek Dosyaları
-Filters=Süzgeçler
+AppCoreFiles=WinMerge Ã‡ekirdek DosyalarÃ½
+Filters=SÃ¼zgeÃ§ler
 Plugins=Uygulama Ekleri
-Frhed=Frhed(Özgür onaltılık düzenleyici)
-WinIMerge=WinIMerge(Görsel Fark/Birleştirme)
+Frhed=Frhed(Ã–zgÃ¼r onaltÃ½lÃ½k dÃ¼zenleyici)
+WinIMerge=WinIMerge(GÃ¶rsel Fark/BirleÃ¾tirme)
 WinWebDiff=WinWebDiff(Web Page Diff)
-ArchiveSupport=Arşiv Desteği
+ArchiveSupport=ArÃ¾iv DesteÃ°i
 ShellExtension32bit=32-bit WinMerge Kabuk Eklentisi
-Commands=GnuWin32 Windows Yaması/HTML Tidy/jq
+Commands=GnuWin32 Windows YamasÃ½/HTML Tidy/jq
 
 ;Localization Components
 Languages=Diller
-ArabicLanguage=Arapça menü ve pencereler
-BasqueLanguage=Baskça menü ve pencereler
-BulgarianLanguage=Bulgarca menü ve pencereler
-CatalanLanguage=Katalanca menü ve pencereler
-ChineseSimplifiedLanguage=Çince (Basitleştirilmiş) menü ve pencereler
-ChineseTraditionalLanguage=Çince (Geleneksel) menü ve pencereler
+ArabicLanguage=ArapÃ§a menÃ¼ ve pencereler
+BasqueLanguage=BaskÃ§a menÃ¼ ve pencereler
+BulgarianLanguage=Bulgarca menÃ¼ ve pencereler
+CatalanLanguage=Katalanca menÃ¼ ve pencereler
+ChineseSimplifiedLanguage=Ã‡ince (BasitleÃ¾tirilmiÃ¾) menÃ¼ ve pencereler
+ChineseTraditionalLanguage=Ã‡ince (Geleneksel) menÃ¼ ve pencereler
 CorsicanLanguage=Corsican menus and dialogs
-CroatianLanguage=Hırvatça menü ve pencereler
-CzechLanguage=Çekce menü ve pencereler
-DanishLanguage=Danimarkaca menü ve pencereler
-DutchLanguage=Hollandaca menü ve pencereler
-FinnishLanguage=Fince menü ve pencereler
-FrenchLanguage=Fransızca menü ve pencereler
-GalicianLanguage=Galiçce menü ve pencereler
-GermanLanguage=Almanca menü ve pencereler
-GreekLanguage=Yunanca menü ve pencereler
-HungarianLanguage=Macarca menü ve pencereler
-ItalianLanguage=Italyanca menü ve pencereler
-JapaneseLanguage=Japonca menü ve pencereler
-KoreanLanguage=Korece menü ve pencereler
-LithuanianLanguage=Litvanca menü ve pencereler
-NorwegianLanguage=Norveçce menü ve pencereler
-PersianLanguage=Farsça menü ve pencereler
-PolishLanguage=Lehçe menü ve pencereler
-PortugueseBrazilLanguage=Portekizce (Brezilya) menü ve pencereler
-PortugueseLanguage=Portekizce menü ve pencereler
-RomanianLanguage=Romence menü ve pencereler
-RussianLanguage=Rusça menü ve pencereler
-SerbianLanguage=Sırpça menü ve pencereler
-SinhalaLanguage=Sinhalaca menü ve pencereler
-SlovakLanguage=Slovakça menü ve pencereler
-SlovenianLanguage=Slovence menü ve pencereler
-SpanishLanguage=İspanyolca menü ve pencereler
-SwedishLanguage=İsveçce menü ve pencereler
-TurkishLanguage=Türkçe menü ve pencereler
-UkrainianLanguage=Ukraynaca menü ve pencereler
+CroatianLanguage=HÃ½rvatÃ§a menÃ¼ ve pencereler
+CzechLanguage=Ã‡ekce menÃ¼ ve pencereler
+DanishLanguage=Danimarkaca menÃ¼ ve pencereler
+DutchLanguage=Hollandaca menÃ¼ ve pencereler
+FinnishLanguage=Fince menÃ¼ ve pencereler
+FrenchLanguage=FransÃ½zca menÃ¼ ve pencereler
+GalicianLanguage=GaliÃ§ce menÃ¼ ve pencereler
+GermanLanguage=Almanca menÃ¼ ve pencereler
+GreekLanguage=Yunanca menÃ¼ ve pencereler
+HungarianLanguage=Macarca menÃ¼ ve pencereler
+ItalianLanguage=Italyanca menÃ¼ ve pencereler
+JapaneseLanguage=Japonca menÃ¼ ve pencereler
+KoreanLanguage=Korece menÃ¼ ve pencereler
+LithuanianLanguage=Litvanca menÃ¼ ve pencereler
+NorwegianLanguage=NorveÃ§ce menÃ¼ ve pencereler
+PersianLanguage=FarsÃ§a menÃ¼ ve pencereler
+PolishLanguage=LehÃ§e menÃ¼ ve pencereler
+PortugueseBrazilLanguage=Portekizce (Brezilya) menÃ¼ ve pencereler
+PortugueseLanguage=Portekizce menÃ¼ ve pencereler
+RomanianLanguage=Romence menÃ¼ ve pencereler
+RussianLanguage=RusÃ§a menÃ¼ ve pencereler
+SerbianLanguage=SÃ½rpÃ§a menÃ¼ ve pencereler
+SinhalaLanguage=Sinhalaca menÃ¼ ve pencereler
+SlovakLanguage=SlovakÃ§a menÃ¼ ve pencereler
+SlovenianLanguage=Slovence menÃ¼ ve pencereler
+SpanishLanguage=Ãspanyolca menÃ¼ ve pencereler
+SwedishLanguage=ÃsveÃ§ce menÃ¼ ve pencereler
+TurkishLanguage=TÃ¼rkÃ§e menÃ¼ ve pencereler
+UkrainianLanguage=Ukraynaca menÃ¼ ve pencereler
 
 ;Tasks
-ExplorerContextMenu=&Windows gezgini sağ tık menü bütünleştirmesi kullanılsın
-IntegrateTortoiseCVS=&TortoiseCVS ile bütünleştir
-IntegrateTortoiseGit=To&rtoiseGit ile bütünleştir
-IntegrateTortoiseSVN=T&ortoiseSVN ile bütünleştir
-AddToPath=Win&Merge klasörü sistem yoluna eklensin
+ExplorerContextMenu=&Windows gezgini saÃ° tÃ½k menÃ¼ bÃ¼tÃ¼nleÃ¾tirmesi kullanÃ½lsÃ½n
+IntegrateTortoiseCVS=&TortoiseCVS ile bÃ¼tÃ¼nleÃ¾tir
+IntegrateTortoiseGit=To&rtoiseGit ile bÃ¼tÃ¼nleÃ¾tir
+IntegrateTortoiseSVN=T&ortoiseSVN ile bÃ¼tÃ¼nleÃ¾tir
+AddToPath=Win&Merge klasÃ¶rÃ¼ sistem yoluna eklensin
 
 ; 3-way merge wizard page
-ThreeWayMergeWizardPageCaption=3 Yollu Birleştirme
-ThreeWayMergeWizardPageDescription=WinMerge uygulamasını TortoiseSVN/Git için 3 yollu birleştirme aracı olarak kullanıyor musunuz?
-RegisterWinMergeAs3WayMergeTool=WinMerge 3 yollu birleştirme aracı olarak kaydedilsin
-MergeAtRightPane=Sağ panoda birleştirilsin
-MergeAtCenterPane=Orta panoda birleştirilsin
-MergeAtLeftPane=Sol panoda birleştirilsin
-AutoMergeAtStartup=Açılışta otomatik birleştirilsin
+ThreeWayMergeWizardPageCaption=3 Yollu BirleÃ¾tirme
+ThreeWayMergeWizardPageDescription=WinMerge uygulamasÃ½nÃ½ TortoiseSVN/Git iÃ§in 3 yollu birleÃ¾tirme aracÃ½ olarak kullanÃ½yor musunuz?
+RegisterWinMergeAs3WayMergeTool=WinMerge 3 yollu birleÃ¾tirme aracÃ½ olarak kaydedilsin
+MergeAtRightPane=SaÃ° panoda birleÃ¾tirilsin
+MergeAtCenterPane=Orta panoda birleÃ¾tirilsin
+MergeAtLeftPane=Sol panoda birleÃ¾tirilsin
+AutoMergeAtStartup=AÃ§Ã½lÃ½Ã¾ta otomatik birleÃ¾tirilsin
 
 ;Icon Labels
 ReadMe=Beni Oku
-UsersGuide=Kullanıcı Kitabı
-ViewStartMenuFolder=&WinMerge Başlangıç Menüsü Klasöründe Görüntülensin
+UsersGuide=KullanÃ½cÃ½ KitabÃ½
+ViewStartMenuFolder=&WinMerge BaÃ¾langÃ½Ã§ MenÃ¼sÃ¼ KlasÃ¶rÃ¼nde GÃ¶rÃ¼ntÃ¼lensin
 
 ;Code Dialogs
-DeletePreviousStartMenu=Kurucu başlangıç menüsünün konumunun "%s" yerine "%s" konumunda bulunduğunu algıladı. Önceki başlangıç menüsü klasörünü silmek ister misiniz?
+DeletePreviousStartMenu=Kurucu baÃ¾langÃ½Ã§ menÃ¼sÃ¼nÃ¼n konumunun "%s" yerine "%s" konumunda bulunduÃ°unu algÃ½ladÃ½. Ã–nceki baÃ¾langÃ½Ã§ menÃ¼sÃ¼ klasÃ¶rÃ¼nÃ¼ silmek ister misiniz?
 
 ; Project file description
-ProjectFileDesc=WinMerge Proje dosyası
+ProjectFileDesc=WinMerge Proje dosyasÃ½
+

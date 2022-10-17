@@ -5,7 +5,7 @@ OptionalFeatures=Po volji:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Uobièajena instalacija
+TypicalInstallation=UobiÃ¨ajena instalacija
 FullInstallation=Puna instalacija
 CompactInstallation=Najmanja instalacija
 CustomInstallation=Izborna instalacija
@@ -77,12 +77,13 @@ MergeAtLeftPane=Merge at left pane
 AutoMergeAtStartup=Auto-merge at startup time
 
 ;Icon Labels
-ReadMe=Proèitaj
-UsersGuide=Vodiæ za korisnika
-ViewStartMenuFolder=&Pregled WinMerge poèetne mape
+ReadMe=ProÃ¨itaj
+UsersGuide=VodiÃ¦ za korisnika
+ViewStartMenuFolder=&Pregled WinMerge poÃ¨etne mape
 
 ;Code Dialogs
-DeletePreviousStartMenu=Instaler je otkrio promjenu lokacije Poèetnog izbornika od "%s" u "%s". Obrisati stari Poèetni izbornik?
+DeletePreviousStartMenu=Instaler je otkrio promjenu lokacije PoÃ¨etnog izbornika od "%s" u "%s". Obrisati stari PoÃ¨etni izbornik?
 
 ; Project file description
 ProjectFileDesc=WinMerge Usporedbe
+

@@ -5,11 +5,7 @@ OptionalFeatures=Optional Features:
 CompanyName=Thingamahoochie Software
 
 ;Types
-; NB! FullInstallation, CompactInstallation, CustomInstallation
-; is now included in the standard version (look for "Select Components" 
-; above), but repeated here just to be safe. [HF Nordhaug] 
 TypicalInstallation=Typisk installasjon
-; *** "Select Components" wizard page
 FullInstallation=Full installasjon
 CompactInstallation=Kompakt installasjon
 CustomInstallation=Egendefinert installasjon
@@ -26,7 +22,7 @@ ShellExtension32bit=32-bit WinMerge ShellExtension
 Commands=GnuWin32 Patch for Windows/HTML Tidy/jq
 
 ;Localization Components
-Languages=Språk
+Languages=Sprè™§
 ArabicLanguage=Arabic menus and dialogs
 BasqueLanguage=Basque menus and dialogs
 BulgarianLanguage=Bulgarske menyer og dialoger
@@ -61,7 +57,7 @@ SlovakLanguage=Slovakiske menyer og dialoger
 SlovenianLanguage=Slovenian menus and dialogs
 SpanishLanguage=Spanske menyer og dialoger
 SwedishLanguage=Svenske menyer og dialoger
-TurkishLanguage=Türkçe menyer og dialoger
+TurkishLanguage=T?kè»» menyer og dialoger
 UkrainianLanguage=Ukrainian menus and dialogs
 
 ;Tasks
@@ -90,3 +86,4 @@ DeletePreviousStartMenu=Installasjonsprogrammet har oppdaget at du har endret pl
 
 ; Project file description
 ProjectFileDesc=WinMerge Project file
+

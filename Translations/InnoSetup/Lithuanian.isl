@@ -1,88 +1,89 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Nebûtinos funkcijos:
+OptionalFeatures=NebÃ»tinos funkcijos:
 CompanyName=Thingamahoochie Software
 
 ;Types
 TypicalInstallation=Tipinis diegimas
-FullInstallation=Visø komponentø diegimas
+FullInstallation=VisÃ¸ komponentÃ¸ diegimas
 CompactInstallation=Glaustas diegimas
 CustomInstallation=Pasirinktinis diegimas
 
 ;Components
-AppCoreFiles=„WinMerge“ pagrindiniai failai
+AppCoreFiles=Â„WinMergeÂ“ pagrindiniai failai
 Filters=Filtrai
 Plugins=Papildiniai
-Frhed=„Frhed“ (nemokamas ğeğioliktainis redaktorius)
-WinIMerge=„WinIMerge“ (vaizdø Diff/Merge)
+Frhed=Â„FrhedÂ“ (nemokamas Ã°eÃ°ioliktainis redaktorius)
+WinIMerge=Â„WinIMergeÂ“ (vaizdÃ¸ Diff/Merge)
 WinWebDiff=WinWebDiff(Web Page Diff)
-ArchiveSupport=Archyvø palaikymas
-ShellExtension32bit=32-bitø „WinMerge ShellExtension“
-Commands=GnuWin32 pataisa „Windows“/HTML Tidy/jq
+ArchiveSupport=ArchyvÃ¸ palaikymas
+ShellExtension32bit=32-bitÃ¸ Â„WinMerge ShellExtensionÂ“
+Commands=GnuWin32 pataisa Â„WindowsÂ“/HTML Tidy/jq
 
 ;Localization Components
 Languages=Kalbos
-ArabicLanguage=Arabø meniu ir dialogai
-BasqueLanguage=Baskø meniu ir dialogai
-BulgarianLanguage=Bulgarø meniu ir dialogai
-CatalanLanguage=Katalonø meniu ir dialogai
-ChineseSimplifiedLanguage=Kinø (supaprastinta) meniu ir dialogai
-ChineseTraditionalLanguage=Kinø (tradicinë) meniu ir dialogai
-CorsicanLanguage=Korsikieèiø meniu ir dialogai
-CroatianLanguage=Kroatø meniu ir dialogai
-CzechLanguage=Èekø meniu ir dialogai
-DanishLanguage=Danø meniu ir dialogai
-DutchLanguage=Olandø meniu ir dialogai
-FinnishLanguage=Suomiø meniu ir dialogai
-FrenchLanguage=Prancûzø meniu ir dialogai
+ArabicLanguage=ArabÃ¸ meniu ir dialogai
+BasqueLanguage=BaskÃ¸ meniu ir dialogai
+BulgarianLanguage=BulgarÃ¸ meniu ir dialogai
+CatalanLanguage=KatalonÃ¸ meniu ir dialogai
+ChineseSimplifiedLanguage=KinÃ¸ (supaprastinta) meniu ir dialogai
+ChineseTraditionalLanguage=KinÃ¸ (tradicinÃ«) meniu ir dialogai
+CorsicanLanguage=KorsikieÃ¨iÃ¸ meniu ir dialogai
+CroatianLanguage=KroatÃ¸ meniu ir dialogai
+CzechLanguage=ÃˆekÃ¸ meniu ir dialogai
+DanishLanguage=DanÃ¸ meniu ir dialogai
+DutchLanguage=OlandÃ¸ meniu ir dialogai
+FinnishLanguage=SuomiÃ¸ meniu ir dialogai
+FrenchLanguage=PrancÃ»zÃ¸ meniu ir dialogai
 GalicianLanguage=Galicijos meniu ir dialogai
-GermanLanguage=Vokieèiø meniu ir dialogai
-GreekLanguage=Graikø meniu ir dialogai
-HungarianLanguage=Vengrø meniu ir dialogai
-ItalianLanguage=Italø meniu ir dialogai
-JapaneseLanguage=Japonø meniu ir dialogai
-KoreanLanguage=Korëjieèiø meniu ir dialogai
-LithuanianLanguage=Lietuviø meniu ir dialogai
-NorwegianLanguage=Norvegø meniu ir dialogai
-PersianLanguage=Persø meniu ir dialogai
-PolishLanguage=Lenkø meniu ir dialogai
-PortugueseBrazilLanguage=Portugalø (Brazilø) meniu ir dialogai
-PortugueseLanguage=Portugalø meniu ir dialogai
-RomanianLanguage=Rumunø meniu ir dialogai
-RussianLanguage=Rusø meniu ir dialogai
-SerbianLanguage=Serbø meniu ir dialogai
+GermanLanguage=VokieÃ¨iÃ¸ meniu ir dialogai
+GreekLanguage=GraikÃ¸ meniu ir dialogai
+HungarianLanguage=VengrÃ¸ meniu ir dialogai
+ItalianLanguage=ItalÃ¸ meniu ir dialogai
+JapaneseLanguage=JaponÃ¸ meniu ir dialogai
+KoreanLanguage=KorÃ«jieÃ¨iÃ¸ meniu ir dialogai
+LithuanianLanguage=LietuviÃ¸ meniu ir dialogai
+NorwegianLanguage=NorvegÃ¸ meniu ir dialogai
+PersianLanguage=PersÃ¸ meniu ir dialogai
+PolishLanguage=LenkÃ¸ meniu ir dialogai
+PortugueseBrazilLanguage=PortugalÃ¸ (BrazilÃ¸) meniu ir dialogai
+PortugueseLanguage=PortugalÃ¸ meniu ir dialogai
+RomanianLanguage=RumunÃ¸ meniu ir dialogai
+RussianLanguage=RusÃ¸ meniu ir dialogai
+SerbianLanguage=SerbÃ¸ meniu ir dialogai
 SinhalaLanguage=Sinhala meniu ir dialogai
-SlovakLanguage=Slovakø meniu ir dialogai
-SlovenianLanguage=Slovënø meniu ir dialogai
-SpanishLanguage=Ispanø meniu ir dialogai
-SwedishLanguage=Ğvedø meniu ir dialogai
-TurkishLanguage=Turkø meniu ir dialogai
-UkrainianLanguage=Ukrainieèiø meniu ir dialogai
+SlovakLanguage=SlovakÃ¸ meniu ir dialogai
+SlovenianLanguage=SlovÃ«nÃ¸ meniu ir dialogai
+SpanishLanguage=IspanÃ¸ meniu ir dialogai
+SwedishLanguage=ÃvedÃ¸ meniu ir dialogai
+TurkishLanguage=TurkÃ¸ meniu ir dialogai
+UkrainianLanguage=UkrainieÃ¨iÃ¸ meniu ir dialogai
 
 ;Tasks
-ExplorerContextMenu=L&eisti „Explorer“ kontekstinio meniu integracijà
-IntegrateTortoiseCVS=Integruoti su „&TortoiseCVS“
-IntegrateTortoiseGit=Integruoti su „To&rtoiseGit“
-IntegrateTortoiseSVN=Integruoti su „T&ortoiseSVN“
-AddToPath=Átr&aukti „WinMerge“ katalogà á sistemos %PATH% kintamajá
+ExplorerContextMenu=L&eisti Â„ExplorerÂ“ kontekstinio meniu integracijÃ 
+IntegrateTortoiseCVS=Integruoti su Â„&TortoiseCVSÂ“
+IntegrateTortoiseGit=Integruoti su Â„To&rtoiseGitÂ“
+IntegrateTortoiseSVN=Integruoti su Â„T&ortoiseSVNÂ“
+AddToPath=Ãtr&aukti Â„WinMergeÂ“ katalogÃ  Ã¡ sistemos %PATH% kintamajÃ¡
 
 ; 3-way merge wizard page
-ThreeWayMergeWizardPageCaption=3 krypèiø suliejimas
-ThreeWayMergeWizardPageDescription=Gal norite naudoti „WinMerge“ kaip 3 krypèiø suliejimo áranká „TortoiseSVN/Git“ programose?
-RegisterWinMergeAs3WayMergeTool=Registruoti „WinMerge“ kaip 3 krypèiø suliejimo áranká
-MergeAtRightPane=Sulieti değiniajame polangyje
+ThreeWayMergeWizardPageCaption=3 krypÃ¨iÃ¸ suliejimas
+ThreeWayMergeWizardPageDescription=Gal norite naudoti Â„WinMergeÂ“ kaip 3 krypÃ¨iÃ¸ suliejimo Ã¡rankÃ¡ Â„TortoiseSVN/GitÂ“ programose?
+RegisterWinMergeAs3WayMergeTool=Registruoti Â„WinMergeÂ“ kaip 3 krypÃ¨iÃ¸ suliejimo Ã¡rankÃ¡
+MergeAtRightPane=Sulieti deÃ°iniajame polangyje
 MergeAtCenterPane=Sulieti viduriniame polangyje
 MergeAtLeftPane=Sulieti kairiajame polangyje
-AutoMergeAtStartup=Automatiğkai sulieti startuojant
+AutoMergeAtStartup=AutomatiÃ°kai sulieti startuojant
 
 ;Icon Labels
 ReadMe=Skaityk
 UsersGuide=Naudotojo vadovas
-ViewStartMenuFolder=&Rodyti „WinMerge“ paleidimo meniu
+ViewStartMenuFolder=&Rodyti Â„WinMergeÂ“ paleidimo meniu
 
 ;Code Dialogs
-DeletePreviousStartMenu=Diegimo programa nustatë, kad pakeitëte paleidimo meniu vietà iğ „%s“ á „%s“. Gal norite pağalinti ankstesná paleidimo meniu?
+DeletePreviousStartMenu=Diegimo programa nustatÃ«, kad pakeitÃ«te paleidimo meniu vietÃ  iÃ° Â„%sÂ“ Ã¡ Â„%sÂ“. Gal norite paÃ°alinti ankstesnÃ¡ paleidimo meniu?
 
 ; Project file description
-ProjectFileDesc=„WinMerge“ projekto failas
+ProjectFileDesc=Â„WinMergeÂ“ projekto failas
+

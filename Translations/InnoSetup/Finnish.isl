@@ -86,3 +86,4 @@ DeletePreviousStartMenu=The installer has detected that you changed the location
 
 ; Project file description
 ProjectFileDesc=WinMerge Project file
+
