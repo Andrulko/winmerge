@@ -4,7 +4,6 @@
 OptionalFeatures=Funzioni opzionali:
 CompanyName=Software Thingamahoochie
 
-;Translated by Andrea Decorte <klenje@adriacom.it> and bovirus <bovirus@gmail.com>
 ;Types
 TypicalInstallation=Installazione tipica
 FullInstallation=Installazione completa
@@ -83,7 +82,8 @@ UsersGuide=Guida per l'utente
 ViewStartMenuFolder=&Visualizza cartella menu Start di WinMerge
 
 ;Code Dialogs
-DeletePreviousStartMenu=L'installer ha rilevato che il menu Start è stato spostato da "%s" a "%s".%n%nVuoi eliminare la precedente cartella del menu Start?
+DeletePreviousStartMenu=L'installer ha rilevato che il menu Start Ã¨ stato spostato da "%s" a "%s".%n%nVuoi eliminare la precedente cartella del menu Start?
 
 ; Project file description
 ProjectFileDesc=File progetto di WinMerge
+
