@@ -1,19 +1,19 @@
 [CustomMessages]
 
 ;Things we can also localize
-OptionalFeatures=Volite¾né monosti:
+OptionalFeatures=VoliteÂ¾nÃ© moÂnosti:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Typická inštalácia
-FullInstallation=Plná inštalácia
-CompactInstallation=Kompaktná inštalácia
-CustomInstallation=Vlastná inštalácia
+TypicalInstallation=TypickÃ¡ inÂštalÃ¡cia
+FullInstallation=PlnÃ¡ inÂštalÃ¡cia
+CompactInstallation=KompaktnÃ¡ inÂštalÃ¡cia
+CustomInstallation=VlastnÃ¡ inÂštalÃ¡cia
 
 ;Components
-AppCoreFiles=Základné súbory WinMerge
+AppCoreFiles=ZÃ¡kladnÃ© sÃºbory WinMerge
 Filters=Filtre
-Plugins=Zásuvné moduly
+Plugins=ZÃ¡suvnÃ© moduly
 Frhed=Frhed(Free hex editor)
 WinIMerge=WinIMerge(Image Diff/Merge)
 WinWebDiff=WinWebDiff(Web Page Diff)
@@ -25,46 +25,46 @@ Commands=GnuWin32 Patch for Windows/HTML Tidy/jq
 Languages=Jazyky
 ArabicLanguage=Arabic menus and dialogs
 BasqueLanguage=Basque menus and dialogs
-BulgarianLanguage=Bulharské ponuky a dialógy
-CatalanLanguage=Katalánske ponuky a dialógy
-ChineseSimplifiedLanguage=Èínske (zjednodušená) ponuky a dialógy
-ChineseTraditionalLanguage=Èínske (tradièná) ponuky a dialógy
+BulgarianLanguage=BulharskÃ© ponuky a dialÃ³gy
+CatalanLanguage=KatalÃ¡nske ponuky a dialÃ³gy
+ChineseSimplifiedLanguage=ÃˆÃ­nske (zjednoduÂšenÃ¡) ponuky a dialÃ³gy
+ChineseTraditionalLanguage=ÃˆÃ­nske (tradiÃ¨nÃ¡) ponuky a dialÃ³gy
 CorsicanLanguage=Corsican menus and dialogs
 CroatianLanguage=Croatian menus and dialogs
-CzechLanguage=Èeské ponuky a dialógy
-DanishLanguage=Dánske ponuky a dialógy
-DutchLanguage=Holandské ponuky a dialógy
+CzechLanguage=ÃˆeskÃ© ponuky a dialÃ³gy
+DanishLanguage=DÃ¡nske ponuky a dialÃ³gy
+DutchLanguage=HolandskÃ© ponuky a dialÃ³gy
 FinnishLanguage=Finnish menus and dialogs
-FrenchLanguage=Francúzske ponuky a dialógy
+FrenchLanguage=FrancÃºzske ponuky a dialÃ³gy
 GalicianLanguage=Galician menus and dialogs
-GermanLanguage=Nemecké ponuky a dialógy
+GermanLanguage=NemeckÃ© ponuky a dialÃ³gy
 GreekLanguage=Greek menus and dialogs
-HungarianLanguage=Maïarské ponuky a dialógy
-ItalianLanguage=Talianske ponuky a dialógy
-JapaneseLanguage=Japonské ponuky a dialógy
-KoreanLanguage=Kórejské ponuky a dialógy
-LithuanianLanguage=Litovské ponuky a dialógy
-NorwegianLanguage=Nórske ponuky a dialógy
+HungarianLanguage=MaÃ¯arskÃ© ponuky a dialÃ³gy
+ItalianLanguage=Talianske ponuky a dialÃ³gy
+JapaneseLanguage=JaponskÃ© ponuky a dialÃ³gy
+KoreanLanguage=KÃ³rejskÃ© ponuky a dialÃ³gy
+LithuanianLanguage=LitovskÃ© ponuky a dialÃ³gy
+NorwegianLanguage=NÃ³rske ponuky a dialÃ³gy
 PersianLanguage=Persian menus and dialogs
-PolishLanguage=Po¾ské ponuky a dialógy
-PortugueseBrazilLanguage=Portugalské (Brazilian) ponuky a dialógy
-PortugueseLanguage=Portugalské ponuky a dialógy
+PolishLanguage=PoÂ¾skÃ© ponuky a dialÃ³gy
+PortugueseBrazilLanguage=PortugalskÃ© (Brazilian) ponuky a dialÃ³gy
+PortugueseLanguage=PortugalskÃ© ponuky a dialÃ³gy
 RomanianLanguage=Romanian menus and dialogs
-RussianLanguage=Ruské ponuky a dialógy
+RussianLanguage=RuskÃ© ponuky a dialÃ³gy
 SerbianLanguage=Serbian menus and dialogs
 SinhalaLanguage=Sinhala menus and dialogs
-SlovakLanguage=Slovenské ponuky a dialógy
+SlovakLanguage=SlovenskÃ© ponuky a dialÃ³gy
 SlovenianLanguage=Slovenian menus and dialogs
-SpanishLanguage=Španielske ponuky a dialógy
-SwedishLanguage=Švédske ponuky a dialógy
-TurkishLanguage=Turecké ponuky a dialógy
+SpanishLanguage=ÂŠpanielske ponuky a dialÃ³gy
+SwedishLanguage=ÂŠvÃ©dske ponuky a dialÃ³gy
+TurkishLanguage=TureckÃ© ponuky a dialÃ³gy
 UkrainianLanguage=Ukrainian menus and dialogs
 
 ;Tasks
-ExplorerContextMenu=&Zapni integráciu do kontextovej ponuky Prieskumníka
-IntegrateTortoiseCVS=Integrácia s &TortoiseCVS
-IntegrateTortoiseGit=Integrácia s To&rtoiseGit
-IntegrateTortoiseSVN=Integrácia s T&ortoiseSVN
+ExplorerContextMenu=&Zapni integrÃ¡ciu do kontextovej ponuky PrieskumnÃ­ka
+IntegrateTortoiseCVS=IntegrÃ¡cia s &TortoiseCVS
+IntegrateTortoiseGit=IntegrÃ¡cia s To&rtoiseGit
+IntegrateTortoiseSVN=IntegrÃ¡cia s T&ortoiseSVN
 AddToPath=&Add WinMerge folder to your system path
 
 ; 3-way merge wizard page
@@ -77,13 +77,13 @@ MergeAtLeftPane=Merge at left pane
 AutoMergeAtStartup=Auto-merge at startup time
 
 ;Icon Labels
-ReadMe=súbor Èítaj ma!
-UsersGuide=Príruèka pouívate¾a
-ViewStartMenuFolder=&Zobrazi adresár WinMerge z ponuky Štart
+ReadMe=sÃºbor ÃˆÃ­taj ma!
+UsersGuide=PrÃ­ruÃ¨ka pouÂÃ­vateÂ¾a
+ViewStartMenuFolder=&ZobraziÂ adresÃ¡r WinMerge z ponuky ÂŠtart
 
 ;Code Dialogs
-DeletePreviousStartMenu=Inštalátor zistil, e ste zmenili umiestnenie vášej ponuky Štart z "%s" na "%s". eláte si zmaza predchádzajúci adresár ponuky Štart?
+DeletePreviousStartMenu=InÂštalÃ¡tor zistil, Âe ste zmenili umiestnenie vÃ¡Âšej ponuky ÂŠtart z "%s" na "%s". ÂelÃ¡te si zmazaÂ predchÃ¡dzajÃºci adresÃ¡r ponuky ÂŠtart?
 
 ; Project file description
-ProjectFileDesc=súbor projektu WinMerge
+ProjectFileDesc=sÃºbor projektu WinMerge
 
