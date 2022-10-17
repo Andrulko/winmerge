@@ -86,3 +86,4 @@ DeletePreviousStartMenu=Ezartzaileak nabaritu du zure hasiera menuaren kokalekua
 
 ; Project file description
 ProjectFileDesc=WinMerge Egitasmo agiria
+
