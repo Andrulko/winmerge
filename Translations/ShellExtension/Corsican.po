@@ -1,27 +1,24 @@
-# This file is part from WinMerge <https://winmerge.org/>
-# Released under the "GNU General Public License"
-#
-# Maintainer:
-# * Patriccollu di Santa Maria è Sichè
-#
-# Translators:
-# * Patriccollu di Santa Maria è Sichè
-#
 msgid ""
-msgstr "Project-Id-Version: WinMerge in Corsican\n"
+msgstr ""
+"Project-Id-Version: wmdemo\n"
 "Report-Msgid-Bugs-To: https://bugs.winmerge.org/\n"
 "POT-Creation-Date: 2021-09-08 23:40+0000\n"
-"PO-Revision-Date: \n"
-"Language-Team: Patriccollu di Santa Maria è Sichè\n"
+"PO-Revision-Date: 2022-10-17 03:03\n"
+"Last-Translator: \n"
+"Language-Team: Corsican\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Basepath: ../../ShellExtension/Languages\n"
-"X-Generator: Poedit 3.0\n"
-"Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: CP1252\n"
+"X-Poedit-Basepath: ../../ShellExtension/Languages/\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language: co\n"
+"X-Crowdin-Project: wmdemo\n"
+"X-Crowdin-Project-ID: 543246\n"
+"X-Crowdin-Language: co\n"
+"X-Crowdin-File: /master/Translations/ShellExtension/English.pot\n"
+"X-Crowdin-File-ID: 879912\n"
+"Language: co_FR\n"
 
 #. AFX_TARG_*
 #: ShellExtension.rc:19
@@ -44,12 +41,12 @@ msgstr "65001"
 #: ShellExtension.rc:111
 #, c-format
 msgid "ShellExtension"
-msgstr "Estensione di u Shell"
+msgstr ""
 
 #: ShellExtension.rc:112
 #, c-format
 msgid "&WinMerge"
-msgstr "&WinMerge"
+msgstr ""
 
 #: ShellExtension.rc:113
 #, c-format
@@ -75,3 +72,4 @@ msgstr "Selezziunà à u &centru"
 #, c-format
 msgid "Re-select &Left"
 msgstr "Riselezziunà à &manca"
+
