@@ -5,35 +5,35 @@ OptionalFeatures=Valfria finesser:
 CompanyName=Thingamahoochie Software
 
 ;Types
-TypicalInstallation=Särlig Installation
+TypicalInstallation=Sèˆlig Installation
 FullInstallation=Full Installation
 CompactInstallation=Kompakt Installation
 CustomInstallation=Anpassad Installation
 
 ;Components
-AppCoreFiles=WinMerge Kärnfiler
+AppCoreFiles=WinMerge Kèˆnfiler
 Filters=Filter
 Plugins=Insticksprogram
 Frhed=Frhed(Fri hex redigerare)
 WinIMerge=WinIMerge(Avbilds Skillnads/Enande)
 WinWebDiff=WinWebDiff(Web Page Diff)
-ArchiveSupport=Arkiv Stöd
+ArchiveSupport=Arkiv Stî’Œ
 ShellExtension32bit=32-bit WinMerge ShellExtension
 Commands=GnuWin32 Patch for Windows/HTML Tidy/jq
 
 ;Localization Components
-Languages=Språk
+Languages=Sprè™§
 ArabicLanguage=Arabiska menyer och dialoger
 BasqueLanguage=Baskiska menyer och dialoger
 BulgarianLanguage=Bulgariska menyer och dialoger
 CatalanLanguage=Katalanska menyer och dialoger
-ChineseSimplifiedLanguage=Kinesiska (Förenklad) menyer och dialoger
+ChineseSimplifiedLanguage=Kinesiska (Fî’šenklad) menyer och dialoger
 ChineseTraditionalLanguage=Kinesiska (Traditionell) menyer och dialoger
 CorsicanLanguage=Corsican menus and dialogs
 CroatianLanguage=Kroatiska menyer och dialoger
 CzechLanguage=Tjeckiska menyer och dialoger
 DanishLanguage=Danska menyer och dialoger
-DutchLanguage=Nederländska menyer och dialoger
+DutchLanguage=Nederlèˆ…dska menyer och dialoger
 FinnishLanguage=Finnska menyer och dialoger
 FrenchLanguage=Franska menyer och dialoger
 GalicianLanguage=Galiciska menyer och dialoger
@@ -49,7 +49,7 @@ PersianLanguage=Persiska menyer och dialoger
 PolishLanguage=Polska menyer och dialoger
 PortugueseBrazilLanguage=Portugisiska (Brasiliansk) menyer och dialoger
 PortugueseLanguage=Portugisiska (Iberisk) menyer och dialoger
-RomanianLanguage=Rumänska menyer och dialoger
+RomanianLanguage=Rumèˆ…ska menyer och dialoger
 RussianLanguage=Ryska menyer och dialoger
 SerbianLanguage=Serbiska menyer och dialoger
 SinhalaLanguage=Sinhalska menyer och dialoger
@@ -61,28 +61,28 @@ TurkishLanguage=Turkiska menyer och dialoger
 UkrainianLanguage=Ukrainska menyer och dialoger
 
 ;Tasks
-ExplorerContextMenu=&Möjliggör samordning med Explorers menyer
+ExplorerContextMenu=&Mî’’liggî’š samordning med Explorers menyer
 IntegrateTortoiseCVS=Integrera med &TortoiseCVS
 IntegrateTortoiseGit=Integrera med To&rtoiseGit
 IntegrateTortoiseSVN=Integrera med T&ortoiseSVN
-AddToPath=&Lägg till WinMerge-katalogen till Er systemsökväg
+AddToPath=&Lè‡ g till WinMerge-katalogen till Er systemsî’“vè‡ 
 
 ; 3-way merge wizard page
-ThreeWayMergeWizardPageCaption=3-Vägs Enande
-ThreeWayMergeWizardPageDescription=Använder Ni WinMerge som ett 3-vägs eningsverktyg för TortoiseSVN/Git?
-RegisterWinMergeAs3WayMergeTool=Registera WinMerge som ett 3-vägs eningsverktyg
-MergeAtRightPane=Ena i höger ruta
+ThreeWayMergeWizardPageCaption=3-Vè‡ s Enande
+ThreeWayMergeWizardPageDescription=Anvèˆ…der Ni WinMerge som ett 3-vè‡ s eningsverktyg fî’š TortoiseSVN/Git?
+RegisterWinMergeAs3WayMergeTool=Registera WinMerge som ett 3-vè‡ s eningsverktyg
+MergeAtRightPane=Ena i hî’er ruta
 MergeAtCenterPane=Ena i den centrala rutan
-MergeAtLeftPane=Ena i vänster ruta
-AutoMergeAtStartup=Auto-ena vid uppkörningstid
+MergeAtLeftPane=Ena i vèˆ…ster ruta
+AutoMergeAtStartup=Auto-ena vid uppkî’šningstid
 
 ;Icon Labels
-ReadMe=Läs Mig
-UsersGuide=Användarguide
+ReadMe=Lèˆ– Mig
+UsersGuide=Anvèˆ…darguide
 ViewStartMenuFolder=Visa WinMerges startkatalog
 
 ;Code Dialogs
-DeletePreviousStartMenu=Installationsprogrammet har upptäckt att Ni har ändrat sökvägen till Er startmeny från "%s" till "%s". Vill Ni ta bort den tidigare startmenykatalogen?
+DeletePreviousStartMenu=Installationsprogrammet har upptè‡˜kt att Ni har èˆ…drat sî’“vè‡ en till Er startmeny frèš£ "%s" till "%s". Vill Ni ta bort den tidigare startmenykatalogen?
 
 ; Project file description
 ProjectFileDesc=WinMerge Projektfil
